@@ -1,0 +1,12 @@
+lyrics can be found in score in .pdf 
+
+and mapping of section to lyrics (usually not needed, clear from score) in .txt and .tsv file 
+
+Gel at 
+https://github.com/georgid/turkish-makam-lyrics-2-audio-test-data/tree/master/nihavent--sarki--aksak--gel_guzelim--faiz_kapanci
+
+Kimseye at 
+https://github.com/georgid/turkish-makam-lyrics-2-audio-test-data/tree/master/nihavent--sarki--curcuna--kimseye_etmem--kemani_sarkis_efendi
+
+Hicran at (note ready yet)
+https://github.com/MTG/SymbTr/blob/master/txt/huseyni--sarki--turkaksagi--hicran_oku--sevki_bey.txt

@@ -1,0 +1,12 @@
+lyrics can be found in score in .pdf 
+
+and mapping of section to lyrics (usually not needed, clear from score) in .txt and .tsv file 
+
+Olmaz at 
+https://github.com/georgid/turkish-makam-lyrics-2-audio-test-data/tree/master/segah--sarki--curcuna--olmaz_ilac--haci_arif_bey
+
+Aksam at 
+https://github.com/georgid/turkish-makam-lyrics-2-audio-test-data/tree/master/ussak--sarki--duyek--aksam_oldu_huzunlendim--semahat_ozdenses
+
+Bakmiyor at 
+https://github.com/georgid/turkish-makam-lyrics-2-audio-test-data/tree/master/nihavent--sarki--aksak--bakmiyor_cesm-i--haci_arif_bey

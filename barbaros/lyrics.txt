@@ -1,0 +1,9 @@
+lyrics can be found in score in .pdf 
+
+and mapping of section to lyrics (usually not needed, clear from score) in .txt and .tsv file 
+
+Gel at 
+https://github.com/georgid/turkish-makam-lyrics-2-audio-test-data/tree/master/nihavent--sarki--aksak--gel_guzelim--faiz_kapanci
+
+Koklasam at 
+https://github.com/georgid/turkish-makam-lyrics-2-audio-test-data/tree/master/nihavent--sarki--aksak--koklasam_saclarini--artaki_candan
