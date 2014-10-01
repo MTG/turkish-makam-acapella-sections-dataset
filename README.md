@@ -32,7 +32,11 @@ press Tab to play
 press Enter to mark end of a word in audio 
 NOTE: u can adjust an existing annotation mark left or right
 
-Leave longer silences empty
+FILE -> Save .TextGrid file as text file
+
+send ready files to  georgi.dzhambazov@upf.edu 
+
+Leave long (over 0.2 secs) silent sections empty
 
 Annotated example: 
 open with Praat goekhan/02_Kimseye_Part1_zemin.TextGrid  
