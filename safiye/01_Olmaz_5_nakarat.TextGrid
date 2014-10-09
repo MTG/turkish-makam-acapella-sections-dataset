@@ -134,7 +134,7 @@ item []:
             text = "" 
     item [2]:
         class = "IntervalTier" 
-        name = "phrases" 
+        name = "words" 
         xmin = 0 
         xmax = 9.58984126984127 
         intervals: size = 7 
@@ -145,7 +145,7 @@ item []:
         intervals [2]:
             xmin = 0.6648924814782462 
             xmax = 1.968998564296822 
-            text = "Care" 
+            text = "çare" 
         intervals [3]:
             xmin = 1.968998564296822 
             xmax = 4.117916132242958 
