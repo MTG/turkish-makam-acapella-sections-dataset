@@ -5,7 +5,9 @@ Goal: Annotation on
 word-level
 files with extension .TextGrid: tier named words
 
-
+Audio file has name: 
+number_compositionNameShort_sectionNumber_sectionName.wav
+where sectionNumber comes from the .tsv file
 
 We want to assign each segment of the audio to its corresponding word from the lyrics
 Songs are divided into sections, so work with the audio for a section.
@@ -16,6 +18,10 @@ Annotation instructions:
 
 
 Download Praat from http://www.fon.hum.uva.nl/praat/
+
+Check the video:
+https://www.youtube.com/watch?v=0zvRrB66zOk
+
 
 Select PRAAT-> PREFERENCES -> TEXT WRITING PREFERENCES and make sure UTF-8 is selected as encoding
 
@@ -42,3 +48,9 @@ Annotated example:
 open with Praat goekhan/02_Kimseye_Part1_zemin.TextGrid  
 open goekhan/02_Kimseye_Part1_zemin.wav 
 Select Sound and TextGrid objects together. Button VIEW AND EDIT
+
+
+--------------
+some scripts : 
+cd <dir_with_wav>;
+for i in `ls *.wav`; do sox  $i -b 16 output.wav; mv output.wav $i; done
