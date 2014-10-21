@@ -1,3 +1,4 @@
+.tsv file has to be number of note on which lyrics for the section start (not note of no lyrics)
 
 
 Goal: Annotation on

@@ -11,7 +11,7 @@ item []:
         name = "words" 
         xmin = 0 
         xmax = 12.747755102040816 
-        intervals: size = 8 
+        intervals: size = 7 
         intervals [1]:
             xmin = 0 
             xmax = 0.7348314773656627 
@@ -26,21 +26,17 @@ item []:
             text = "" 
         intervals [4]:
             xmin = 3.1748481103921584 
-            xmax = 3.7242567884323337 
-            text = "han" 
-        intervals [5]:
-            xmin = 3.7242567884323337 
             xmax = 4.974532481842709 
-            text = "çeri" 
-        intervals [6]:
+            text = "hançeri" 
+        intervals [5]:
             xmin = 4.974532481842709 
             xmax = 7.980377051772585 
             text = "ebru" 
-        intervals [7]:
+        intervals [6]:
             xmin = 7.980377051772585 
             xmax = 12.199184436356564 
             text = "dade" 
-        intervals [8]:
+        intervals [7]:
             xmin = 12.199184436356564 
             xmax = 12.747755102040816 
             text = "" 

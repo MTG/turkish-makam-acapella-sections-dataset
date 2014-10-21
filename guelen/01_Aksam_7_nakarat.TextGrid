@@ -1,0 +1,46 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 13.897573696145125 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 13.897573696145125 
+        intervals: size = 8 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.8265702374759512 
+            text = "hasret" 
+        intervals [2]:
+            xmin = 1.8265702374759512 
+            xmax = 4.506976947480918 
+            text = "kaldım" 
+        intervals [3]:
+            xmin = 4.506976947480918 
+            xmax = 7.91840366930542 
+            text = "gözlerinin" 
+        intervals [4]:
+            xmin = 7.91840366930542 
+            xmax = 8.405750343851777 
+            text = "" 
+        intervals [5]:
+            xmin = 8.405750343851777 
+            xmax = 10.720647047946976 
+            text = "rengine" 
+        intervals [6]:
+            xmin = 10.720647047946976 
+            xmax = 11.015085663818732 
+            text = "" 
+        intervals [7]:
+            xmin = 11.015085663818732 
+            xmax = 13.512737370868814 
+            text = "ah" 
+        intervals [8]:
+            xmin = 13.512737370868814 
+            xmax = 13.897573696145125 
+            text = "" 
