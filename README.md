@@ -23,6 +23,9 @@ Download Praat from http://www.fon.hum.uva.nl/praat/
 Check the video:
 https://www.youtube.com/watch?v=0zvRrB66zOk
 
+Parse score - OPTIONAL (to make sure annotatiaon is done on words in score, not on "what is heard")
+python https://github.com/georgid/Lyrics2AudioAligner/blob/master/AlignmentStep/MakamScore.py <pathTOScore_indicated_in_lyrics.txt_>
+e.g. python /Users/joro/Documents/Phd/UPF/voxforge/myScripts/AlignmentStep/MakamScore.py /Users/joro/Documents/Phd/UPF/turkish-makam-lyrics-2-audio-test-data/nihavent--sarki--aksak--koklasam_saclarini--artaki_candan/
 
 Select PRAAT-> PREFERENCES -> TEXT WRITING PREFERENCES and make sure UTF-8 is selected as encoding
 
