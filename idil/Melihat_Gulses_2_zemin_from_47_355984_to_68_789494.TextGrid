@@ -1,0 +1,106 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 21.433514739229025 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = ".grTruthDuration" 
+        xmin = 0 
+        xmax = 21.433514739229025 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 21.433514739229025 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phrases" 
+        xmin = 0 
+        xmax = 21.433514739229025 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 7.396631335478506 
+            text = "Kimseye etmem" 
+        intervals [2]:
+            xmin = 7.396631335478506 
+            xmax = 11.268116671284083 
+            text = "şikâyet" 
+        intervals [3]:
+            xmin = 11.268116671284083 
+            xmax = 12.269290981909855 
+            text = "" 
+        intervals [4]:
+            xmin = 12.269290981909855 
+            xmax = 19.044193699598026 
+            text = "ağlarım ben halime" 
+        intervals [5]:
+            xmin = 19.044193699598026 
+            xmax = 21.433514739229025 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = ".grTruthDuration" 
+        xmin = 0 
+        xmax = 21.433514739229025 
+        intervals: size = 14 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.001 
+            text = "Kimseye" 
+        intervals [2]:
+            xmin = 0.001 
+            xmax = 3.41 
+            text = "Kimseye" 
+        intervals [3]:
+            xmin = 3.41 
+            xmax = 4.41 
+            text = "etmem" 
+        intervals [4]:
+            xmin = 4.41 
+            xmax = 7.81 
+            text = "şikâyet" 
+        intervals [5]:
+            xmin = 7.81 
+            xmax = 8.81 
+            text = "ağlarım" 
+        intervals [6]:
+            xmin = 8.81 
+            xmax = 13.59 
+            text = "ben" 
+        intervals [7]:
+            xmin = 13.59 
+            xmax = 14.59 
+            text = "halime" 
+        intervals [8]:
+            xmin = 14.59 
+            xmax = 16.01 
+            text = "ağlarım" 
+        intervals [9]:
+            xmin = 16.01 
+            xmax = 17.01 
+            text = "" 
+        intervals [10]:
+            xmin = 17.01 
+            xmax = 17.02 
+            text = "ben" 
+        intervals [11]:
+            xmin = 17.02 
+            xmax = 18.02 
+            text = "" 
+        intervals [12]:
+            xmin = 18.02 
+            xmax = 20.43 
+            text = "halime" 
+        intervals [13]:
+            xmin = 20.43 
+            xmax = 21.43 
+            text = "" 
+        intervals [14]:
+            xmin = 21.43 
+            xmax = 21.433514739229025 
+            text = "" 

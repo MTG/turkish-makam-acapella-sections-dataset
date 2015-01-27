@@ -1,0 +1,72 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 21.129705215419502 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = ".phrases" 
+        xmin = 0 
+        xmax = 21.129705215419502 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.01924873898087572 
+            text = "" 
+        intervals [2]:
+            xmin = 0.01924873898087572 
+            xmax = 6.581353001309636 
+            text = "Titrerim mücrim" 
+        intervals [3]:
+            xmin = 6.581353001309636 
+            xmax = 7.328259177509658 
+            text = "" 
+        intervals [4]:
+            xmin = 7.328259177509658 
+            xmax = 13.801446037909844 
+            text = "gibi baktıkça" 
+        intervals [5]:
+            xmin = 13.801446037909844 
+            xmax = 21.120476190476193 
+            text = "istikbalime" 
+        intervals [6]:
+            xmin = 21.120476190476193 
+            xmax = 21.129705215419502 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = ".grTruthDuration" 
+        xmin = 0 
+        xmax = 21.129705215419502 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1 
+            text = "" 
+        intervals [2]:
+            xmin = 1 
+            xmax = 4.38 
+            text = "Titrerim" 
+        intervals [3]:
+            xmin = 4.38 
+            xmax = 8.72 
+            text = "mücrim" 
+        intervals [4]:
+            xmin = 8.72 
+            xmax = 11.08 
+            text = "gibi" 
+        intervals [5]:
+            xmin = 11.08 
+            xmax = 16.11 
+            text = "baktıkça" 
+        intervals [6]:
+            xmin = 16.11 
+            xmax = 21.1287052154195 
+            text = "istikbalime" 
+        intervals [7]:
+            xmin = 21.1287052154195 
+            xmax = 21.129705215419502 
+            text = "" 

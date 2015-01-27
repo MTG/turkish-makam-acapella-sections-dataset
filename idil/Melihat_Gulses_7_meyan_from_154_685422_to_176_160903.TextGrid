@@ -1,0 +1,84 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 21.475487528344672 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "/Users/joro/Documents/Phd/UPF/turkish-makam-lyrics-2-audio-test-data/nihavent--sarki--curcuna--kimseye_etmem--kemani_sarkis_efendi/Melihat_Gulses/Melihat_Gulses_7_meyan_from_154_685422_to_176_160903.TextGrid" 
+        xmin = 0 
+        xmax = 21.475487528344672 
+        intervals: size = 8 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.019563739754329148 
+            text = "" 
+        intervals [2]:
+            xmin = 0.019563739754329148 
+            xmax = 2.9333326606859544 
+            text = "perde i" 
+        intervals [3]:
+            xmin = 2.9333326606859544 
+            xmax = 7.6315192743764175 
+            text = "zulmet" 
+        intervals [4]:
+            xmin = 7.6315192743764175 
+            xmax = 11.780324072258875 
+            text = "çekilmiş" 
+        intervals [5]:
+            xmin = 11.780324072258875 
+            xmax = 12.431006164803645 
+            text = "" 
+        intervals [6]:
+            xmin = 12.431006164803645 
+            xmax = 19.022746766338702 
+            text = "korkarım ikbalime" 
+        intervals [7]:
+            xmin = 19.022746766338702 
+            xmax = 21.47448752834467 
+            text = "" 
+        intervals [8]:
+            xmin = 21.47448752834467 
+            xmax = 21.475487528344672 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = ".grTruthDuration" 
+        xmin = 0 
+        xmax = 21.475487528344672 
+        intervals: size = 8 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1 
+            text = "" 
+        intervals [2]:
+            xmin = 1 
+            xmax = 2.7 
+            text = "Perde" 
+        intervals [3]:
+            xmin = 2.7 
+            xmax = 4.4 
+            text = "i" 
+        intervals [4]:
+            xmin = 4.4 
+            xmax = 8.86 
+            text = "zulmet" 
+        intervals [5]:
+            xmin = 8.86 
+            xmax = 14.64 
+            text = "çekilmiş" 
+        intervals [6]:
+            xmin = 14.64 
+            xmax = 17.06 
+            text = "korkarım" 
+        intervals [7]:
+            xmin = 17.06 
+            xmax = 21.47448752834467 
+            text = "ikbalime" 
+        intervals [8]:
+            xmin = 21.47448752834467 
+            xmax = 21.475487528344672 
+            text = "" 
