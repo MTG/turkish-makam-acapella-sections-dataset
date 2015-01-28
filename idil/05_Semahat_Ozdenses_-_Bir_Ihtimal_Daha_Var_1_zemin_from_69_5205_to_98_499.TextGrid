@@ -1,0 +1,180 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 28.978503401360545 
+tiers? <exists> 
+size = 4 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = ".wordsDurationSynthAligned" 
+        xmin = 0 
+        xmax = 28.978503401360545 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 28.978503401360545 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = ".grTruthDuration" 
+        xmin = 0 
+        xmax = 28.978503401360545 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 28.978503401360545 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "/Users/joro/Documents/Phd/UPF/turkish-makam-lyrics-2-audio-test-data/nihavent--sarki--duyek--bir_ihtimal--osman_nihat_akin/05_Semahat_Ozdenses_-_Bir_Ihtimal_Daha_Var/05_Semahat_Ozdenses_-_Bir_Ihtimal_Daha_Var_1_zemin_from_69_5205_to_98_499.TextGrid" 
+        xmin = 0 
+        xmax = 28.978503401360545 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 28.978503401360545 
+            text = "" 
+    item [4]:
+        class = "IntervalTier" 
+        name = ".phrases" 
+        xmin = 0 
+        xmax = 28.978503401360545 
+        intervals: size = 34 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1 
+            text = "Bir ihtimal daha var" 
+        intervals [2]:
+            xmin = 1 
+            xmax = 4.82 
+            text = "Bir_ihtimal" 
+        intervals [3]:
+            xmin = 4.82 
+            xmax = 5.000574866069259 
+            text = "daha" 
+        intervals [4]:
+            xmin = 5.000574866069259 
+            xmax = 6.09 
+            text = "var" 
+        intervals [5]:
+            xmin = 6.09 
+            xmax = 8.02 
+            text = "o" 
+        intervals [6]:
+            xmin = 8.02 
+            xmax = 8.2681774915767 
+            text = "da" 
+        intervals [7]:
+            xmin = 8.2681774915767 
+            xmax = 8.66 
+            text = "ölmek" 
+        intervals [8]:
+            xmin = 8.66 
+            xmax = 9.3 
+            text = "mi" 
+        intervals [9]:
+            xmin = 9.3 
+            xmax = 10.731496444716132 
+            text = "dersin" 
+        intervals [10]:
+            xmin = 10.731496444716132 
+            xmax = 11.95 
+            text = "Söyle" 
+        intervals [11]:
+            xmin = 11.95 
+            xmax = 12.59 
+            text = "canım" 
+        intervals [12]:
+            xmin = 12.59 
+            xmax = 13.085063563309745 
+            text = "ne" 
+        intervals [13]:
+            xmin = 13.085063563309745 
+            xmax = 14.734385136876975 
+            text = "dersin" 
+        intervals [14]:
+            xmin = 14.734385136876975 
+            xmax = 17.80743650415983 
+            text = "Söyle canım" 
+        intervals [15]:
+            xmin = 17.80743650415983 
+            xmax = 17.88 
+            text = "ne dersin" 
+        intervals [16]:
+            xmin = 17.88 
+            xmax = 18.11 
+            text = "" 
+        intervals [17]:
+            xmin = 18.11 
+            xmax = 19.09 
+            text = "" 
+        intervals [18]:
+            xmin = 19.09 
+            xmax = 19.59 
+            text = "" 
+        intervals [19]:
+            xmin = 19.59 
+            xmax = 19.87 
+            text = "" 
+        intervals [20]:
+            xmin = 19.87 
+            xmax = 20.48 
+            text = "" 
+        intervals [21]:
+            xmin = 20.48 
+            xmax = 21.14 
+            text = "" 
+        intervals [22]:
+            xmin = 21.14 
+            xmax = 21.188596824423986 
+            text = "" 
+        intervals [23]:
+            xmin = 21.188596824423986 
+            xmax = 21.45 
+            text = "" 
+        intervals [24]:
+            xmin = 21.45 
+            xmax = 22.57 
+            text = "" 
+        intervals [25]:
+            xmin = 22.57 
+            xmax = 23 
+            text = "" 
+        intervals [26]:
+            xmin = 23 
+            xmax = 23.21 
+            text = "" 
+        intervals [27]:
+            xmin = 23.21 
+            xmax = 23.25 
+            text = "" 
+        intervals [28]:
+            xmin = 23.25 
+            xmax = 24.41 
+            text = "" 
+        intervals [29]:
+            xmin = 24.41 
+            xmax = 24.94 
+            text = "" 
+        intervals [30]:
+            xmin = 24.94 
+            xmax = 26.19 
+            text = "" 
+        intervals [31]:
+            xmin = 26.19 
+            xmax = 26.74 
+            text = "" 
+        intervals [32]:
+            xmin = 26.74 
+            xmax = 28.41 
+            text = "" 
+        intervals [33]:
+            xmin = 28.41 
+            xmax = 28.88 
+            text = "" 
+        intervals [34]:
+            xmin = 28.88 
+            xmax = 28.978503401360545 
+            text = "" 
