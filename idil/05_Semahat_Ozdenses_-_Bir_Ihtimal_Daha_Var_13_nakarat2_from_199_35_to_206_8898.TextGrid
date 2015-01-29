@@ -1,0 +1,40 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 7.539795918367347 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "/Users/joro/Documents/Phd/UPF/turkish-makam-lyrics-2-audio-test-data/nihavent--sarki--duyek--bir_ihtimal--osman_nihat_akin/05_Semahat_Ozdenses_-_Bir_Ihtimal_Daha_Var/05_Semahat_Ozdenses_-_Bir_Ihtimal_Daha_Var_13_nakarat2_from_199_35_to_206_8898.TextGrid" 
+        xmin = 0 
+        xmax = 7.539795918367347 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 7.539795918367347 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = ".phrases" 
+        xmin = 0 
+        xmax = 7.539795918367347 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.26211094440339017 
+            text = "" 
+        intervals [2]:
+            xmin = 0.26211094440339017 
+            xmax = 3.9037829597478066 
+            text = "sen bir ömre" 
+        intervals [3]:
+            xmin = 3.9037829597478066 
+            xmax = 7.538795918367347 
+            text = "bedelsin" 
+        intervals [4]:
+            xmin = 7.538795918367347 
+            xmax = 7.539795918367347 
+            text = "" 
