@@ -1,0 +1,98 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 9.249478458049886 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = ".grTruthDuration" 
+        xmin = 0 
+        xmax = 9.249478458049886 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 9.249478458049886 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "/Users/joro/Documents/Phd/UPF/turkish-makam-lyrics-2-audio-test-data/ussak--sarki--aksak--bu_aksam_gun--tatyos_efendi/Sakin--Gec--Kalma/Sakin--Gec--Kalma_8_zemin_2_from_85_229404_to_94_478888.TextGrid" 
+        xmin = 0 
+        xmax = 9.249478458049886 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 9.249478458049886 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "phrases" 
+        xmin = 0 
+        xmax = 9.249478458049886 
+        intervals: size = 16 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.001 
+            text = "Cefâ etme" 
+        intervals [2]:
+            xmin = 0.001 
+            xmax = 0.86 
+            text = "Cefâ" 
+        intervals [3]:
+            xmin = 0.86 
+            xmax = 1.96 
+            text = "etme" 
+        intervals [4]:
+            xmin = 1.96 
+            xmax = 2.3126903212538394 
+            text = "bana" 
+        intervals [5]:
+            xmin = 2.3126903212538394 
+            xmax = 2.82 
+            text = "mâhım" 
+        intervals [6]:
+            xmin = 2.82 
+            xmax = 3.88 
+            text = "Cefâ" 
+        intervals [7]:
+            xmin = 3.88 
+            xmax = 4.562461817367809 
+            text = "etme" 
+        intervals [8]:
+            xmin = 4.562461817367809 
+            xmax = 4.74 
+            text = "bana" 
+        intervals [9]:
+            xmin = 4.74 
+            xmax = 5.84 
+            text = "mâhım" 
+        intervals [10]:
+            xmin = 5.84 
+            xmax = 6.433083900226757 
+            text = "" 
+        intervals [11]:
+            xmin = 6.433083900226757 
+            xmax = 6.7 
+            text = "" 
+        intervals [12]:
+            xmin = 6.7 
+            xmax = 6.84 
+            text = "" 
+        intervals [13]:
+            xmin = 6.84 
+            xmax = 8.23 
+            text = "bana mâhım" 
+        intervals [14]:
+            xmin = 8.23 
+            xmax = 8.785578231292517 
+            text = "" 
+        intervals [15]:
+            xmin = 8.785578231292517 
+            xmax = 9.23 
+            text = "" 
+        intervals [16]:
+            xmin = 9.23 
+            xmax = 9.249478458049886 
+            text = "" 

@@ -1,0 +1,48 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 8.724172335600906 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "/Users/joro/Documents/Phd/UPF/turkish-makam-lyrics-2-audio-test-data/ussak--sarki--aksak--bu_aksam_gun--tatyos_efendi/Sakin--Gec--Kalma/Sakin--Gec--Kalma_9_nakarat_2_from_94_478888_to_103_203062.TextGrid" 
+        xmin = 0 
+        xmax = 8.724172335600906 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 8.724172335600906 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = ".phrases" 
+        xmin = 0 
+        xmax = 8.724172335600906 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.482390574147535 
+            text = "Sonra tutar benim" 
+        intervals [2]:
+            xmin = 2.482390574147535 
+            xmax = 4.200549827720906 
+            text = "âhım" 
+        intervals [3]:
+            xmin = 4.200549827720906 
+            xmax = 4.464882020578347 
+            text = "" 
+        intervals [4]:
+            xmin = 4.464882020578347 
+            xmax = 6.785131268993668 
+            text = "Sonra tutar benim" 
+        intervals [5]:
+            xmin = 6.785131268993668 
+            xmax = 7.879172844986968 
+            text = "âhım" 
+        intervals [6]:
+            xmin = 7.879172844986968 
+            xmax = 8.724172335600906 
+            text = "" 

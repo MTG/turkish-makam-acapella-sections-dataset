@@ -1,0 +1,42 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 8.635283446712018 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = ".phrases" 
+        xmin = 0 
+        xmax = 8.635283446712018 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.2113635423661216 
+            text = "" 
+        intervals [2]:
+            xmin = 0.2113635423661216 
+            xmax = 2.816851556321652 
+            text = "Tahammül kalmadı" 
+        intervals [3]:
+            xmin = 2.816851556321652 
+            xmax = 4.143066042133364 
+            text = "artık" 
+        intervals [4]:
+            xmin = 4.143066042133364 
+            xmax = 4.5845817934521875 
+            text = "" 
+        intervals [5]:
+            xmin = 4.5845817934521875 
+            xmax = 7.135861100746924 
+            text = "Tahammül kalmadı" 
+        intervals [6]:
+            xmin = 7.135861100746924 
+            xmax = 8.193318579214232 
+            text = "artık" 
+        intervals [7]:
+            xmin = 8.193318579214232 
+            xmax = 8.635283446712018 
+            text = "" 
