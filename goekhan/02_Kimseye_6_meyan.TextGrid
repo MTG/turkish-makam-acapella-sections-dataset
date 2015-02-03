@@ -1,0 +1,204 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 21.31591836734694 
+tiers? <exists> 
+size = 6 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 21.31591836734694 
+        intervals: size = 9 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.9172820967179277 
+            text = "" 
+        intervals [2]:
+            xmin = 0.9172820967179277 
+            xmax = 2.2576549615511197 
+            text = "Perde" 
+        intervals [3]:
+            xmin = 2.2576549615511197 
+            xmax = 3.6669775456749836 
+            text = "i" 
+        intervals [4]:
+            xmin = 3.6669775456749836 
+            xmax = 7.5646245242690835 
+            text = "zulmet" 
+        intervals [5]:
+            xmin = 7.5646245242690835 
+            xmax = 12.230291482745157 
+            text = "çekilmiş" 
+        intervals [6]:
+            xmin = 12.230291482745157 
+            xmax = 12.655873351248026 
+            text = "" 
+        intervals [7]:
+            xmin = 12.655873351248026 
+            xmax = 14.75986978536311 
+            text = "korkarım" 
+        intervals [8]:
+            xmin = 14.75986978536311 
+            xmax = 19.962602763938758 
+            text = "ikbalime" 
+        intervals [9]:
+            xmin = 19.962602763938758 
+            xmax = 21.31591836734694 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phrases" 
+        xmin = 0 
+        xmax = 21.31591836734694 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.9172820967179277 
+            text = "" 
+        intervals [2]:
+            xmin = 0.9172820967179277 
+            xmax = 3.6669775456749836 
+            text = "Perde i" 
+        intervals [3]:
+            xmin = 3.6669775456749836 
+            xmax = 7.5646245242690835 
+            text = "zulmet" 
+        intervals [4]:
+            xmin = 7.5646245242690835 
+            xmax = 12.230291482745157 
+            text = "çekilmiş" 
+        intervals [5]:
+            xmin = 12.230291482745157 
+            xmax = 12.655873351248026 
+            text = "" 
+        intervals [6]:
+            xmin = 12.655873351248026 
+            xmax = 19.962602763938758 
+            text = "korkarım ikbalime" 
+        intervals [7]:
+            xmin = 19.962602763938758 
+            xmax = 21.31591836734694 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "aligned" 
+        xmin = 0 
+        xmax = 21.31591836734694 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.81 
+            text = "" 
+        intervals [2]:
+            xmin = 1.81 
+            xmax = 3.56 
+            text = "i" 
+        intervals [3]:
+            xmin = 3.56 
+            xmax = 8.17 
+            text = "zulmet" 
+        intervals [4]:
+            xmin = 8.17 
+            xmax = 14.15 
+            text = "çekilmiş" 
+        intervals [5]:
+            xmin = 14.15 
+            xmax = 16.63 
+            text = "korkarım" 
+        intervals [6]:
+            xmin = 16.63 
+            xmax = 21.31591836734694 
+            text = "ikbalime" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "aligned" 
+        xmin = 0 
+        xmax = 21.31591836734694 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.81 
+            text = "" 
+        intervals [2]:
+            xmin = 1.81 
+            xmax = 3.56 
+            text = "i" 
+        intervals [3]:
+            xmin = 3.56 
+            xmax = 8.17 
+            text = "zulmet" 
+        intervals [4]:
+            xmin = 8.17 
+            xmax = 14.15 
+            text = "çekilmiş" 
+        intervals [5]:
+            xmin = 14.15 
+            xmax = 16.63 
+            text = "korkarım" 
+        intervals [6]:
+            xmin = 16.63 
+            xmax = 21.31591836734694 
+            text = "ikbalime" 
+    item [5]:
+        class = "IntervalTier" 
+        name = "aligned" 
+        xmin = 0 
+        xmax = 21.31591836734694 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.81 
+            text = "" 
+        intervals [2]:
+            xmin = 1.81 
+            xmax = 3.56 
+            text = "i" 
+        intervals [3]:
+            xmin = 3.56 
+            xmax = 8.17 
+            text = "zulmet" 
+        intervals [4]:
+            xmin = 8.17 
+            xmax = 14.15 
+            text = "çekilmiş" 
+        intervals [5]:
+            xmin = 14.15 
+            xmax = 16.63 
+            text = "korkarım" 
+        intervals [6]:
+            xmin = 16.63 
+            xmax = 21.31591836734694 
+            text = "ikbalime" 
+    item [6]:
+        class = "IntervalTier" 
+        name = "aligned" 
+        xmin = 0 
+        xmax = 21.31591836734694 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.81 
+            text = "" 
+        intervals [2]:
+            xmin = 1.81 
+            xmax = 3.56 
+            text = "i" 
+        intervals [3]:
+            xmin = 3.56 
+            xmax = 8.17 
+            text = "zulmet" 
+        intervals [4]:
+            xmin = 8.17 
+            xmax = 14.15 
+            text = "çekilmiş" 
+        intervals [5]:
+            xmin = 14.15 
+            xmax = 16.63 
+            text = "korkarım" 
+        intervals [6]:
+            xmin = 16.63 
+            xmax = 21.31591836734694 
+            text = "ikbalime" 

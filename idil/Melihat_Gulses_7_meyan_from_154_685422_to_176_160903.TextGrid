@@ -8,7 +8,7 @@ size = 2
 item []: 
     item [1]:
         class = "IntervalTier" 
-        name = "/Users/joro/Documents/Phd/UPF/turkish-makam-lyrics-2-audio-test-data/nihavent--sarki--curcuna--kimseye_etmem--kemani_sarkis_efendi/Melihat_Gulses/Melihat_Gulses_7_meyan_from_154_685422_to_176_160903.TextGrid" 
+        name = "phrases"
         xmin = 0 
         xmax = 21.475487528344672 
         intervals: size = 8 

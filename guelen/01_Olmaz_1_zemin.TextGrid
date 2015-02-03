@@ -1,0 +1,64 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 9.305555555555555 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 9.305555555555555 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.33618764207267826 
+            text = "" 
+        intervals [2]:
+            xmin = 0.33618764207267826 
+            xmax = 1.6856494594295683 
+            text = "olmaz" 
+        intervals [3]:
+            xmin = 1.6856494594295683 
+            xmax = 2.8242000785903216 
+            text = "ilaç" 
+        intervals [4]:
+            xmin = 2.8242000785903216 
+            xmax = 4.231447414574585 
+            text = "sine" 
+        intervals [5]:
+            xmin = 4.231447414574585 
+            xmax = 8.546337980855187 
+            text = "isadpareme" 
+        intervals [6]:
+            xmin = 8.546337980855187 
+            xmax = 9.305555555555555 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phrases" 
+        xmin = 0 
+        xmax = 9.305555555555555 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.33618764207267826 
+            text = "" 
+        intervals [2]:
+            xmin = 0.33618764207267826 
+            xmax = 2.8242000785903216 
+            text = "olmaz ilaç" 
+        intervals [3]:
+            xmin = 2.8242000785903216 
+            xmax = 4.231447414574585 
+            text = "sine" 
+        intervals [4]:
+            xmin = 4.231447414574585 
+            xmax = 8.546337980855187 
+            text = "isadpareme" 
+        intervals [5]:
+            xmin = 8.546337980855187 
+            xmax = 9.305555555555555 
+            text = "" 

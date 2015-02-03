@@ -2,45 +2,71 @@ File type = "ooTextFile"
 Object class = "TextGrid"
 
 xmin = 0 
-xmax = 11.911836734693878 
+xmax = 10.7740589569161 
 tiers? <exists> 
-size = 1 
+size = 2 
 item []: 
     item [1]:
         class = "IntervalTier" 
         name = "words" 
         xmin = 0 
-        xmax = 11.911836734693878 
-        intervals: size = 8 
+        xmax = 10.7740589569161 
+        intervals: size = 7 
         intervals [1]:
             xmin = 0 
-            xmax = 0.3868346503505165 
+            xmax = 0.8493225493568697 
             text = "" 
         intervals [2]:
-            xmin = 0.3868346503505165 
-            xmax = 2.1534115781911862 
+            xmin = 0.8493225493568697 
+            xmax = 3.007980182151317 
             text = "bakmıyor" 
         intervals [3]:
-            xmin = 2.1534115781911862 
-            xmax = 2.518910252916842 
-            text = "" 
-        intervals [4]:
-            xmin = 2.518910252916842 
-            xmax = 3.685025072279649 
+            xmin = 3.007980182151317 
+            xmax = 4.192585373529856 
             text = "çeşmi" 
+        intervals [4]:
+            xmin = 4.192585373529856 
+            xmax = 5.5975822284206815 
+            text = " siyah" 
         intervals [5]:
-            xmin = 3.685025072279649 
-            xmax = 5.128049886621315 
-            text = "siyah" 
-        intervals [6]:
-            xmin = 5.128049886621315 
-            xmax = 5.469006698916778 
+            xmin = 5.5975822284206815 
+            xmax = 5.995074335826769 
             text = "" 
-        intervals [7]:
-            xmin = 5.469006698916778 
-            xmax = 11.211717506007085 
+        intervals [6]:
+            xmin = 5.995074335826769 
+            xmax = 9.916865276719507 
             text = "feryade" 
-        intervals [8]:
-            xmin = 11.211717506007085 
-            xmax = 11.911836734693878 
+        intervals [7]:
+            xmin = 9.916865276719507 
+            xmax = 10.7740589569161 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phrases" 
+        xmin = 0 
+        xmax = 10.7740589569161 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.8493225493568697 
+            text = "" 
+        intervals [2]:
+            xmin = 0.8493225493568697 
+            xmax = 3.007980182151317 
+            text = "bakmıyor" 
+        intervals [3]:
+            xmin = 3.007980182151317 
+            xmax = 5.5975822284206815 
+            text = " çeşmi siyah" 
+        intervals [4]:
+            xmin = 5.5975822284206815 
+            xmax = 5.995074335826769 
+            text = "" 
+        intervals [5]:
+            xmin = 5.995074335826769 
+            xmax = 9.916865276719507 
+            text = "feryade" 
+        intervals [6]:
+            xmin = 9.916865276719507 
+            xmax = 10.7740589569161 
             text = "" 

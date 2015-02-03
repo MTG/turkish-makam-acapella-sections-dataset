@@ -1,0 +1,46 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 11.01954648526077 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 11.01954648526077 
+        intervals: size = 8 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.7363846083683363 
+            text = "kumru" 
+        intervals [2]:
+            xmin = 2.7363846083683363 
+            xmax = 4.704920634920635 
+            text = " gibi" 
+        intervals [3]:
+            xmin = 4.704920634920635 
+            xmax = 5.159577580539241 
+            text = " a " 
+        intervals [4]:
+            xmin = 5.159577580539241 
+            xmax = 5.859968904721529 
+            text = "canIm " 
+        intervals [5]:
+            xmin = 5.859968904721529 
+            xmax = 7.055608279362953 
+            text = "seviSelim" 
+        intervals [6]:
+            xmin = 7.055608279362953 
+            xmax = 8.25901045192063 
+            text = " can " 
+        intervals [7]:
+            xmin = 8.25901045192063 
+            xmax = 9.45048075052958 
+            text = "cana" 
+        intervals [8]:
+            xmin = 9.45048075052958 
+            xmax = 11.01954648526077 
+            text = "" 

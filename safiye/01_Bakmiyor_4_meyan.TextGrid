@@ -1,0 +1,72 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 12.747755102040816 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 12.747755102040816 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.7348314773656627 
+            text = "" 
+        intervals [2]:
+            xmin = 0.7348314773656627 
+            xmax = 2.9233960146222526 
+            text = "gemiyor" 
+        intervals [3]:
+            xmin = 2.9233960146222526 
+            xmax = 3.1748481103921584 
+            text = "" 
+        intervals [4]:
+            xmin = 3.1748481103921584 
+            xmax = 4.974532481842709 
+            text = "hançeri" 
+        intervals [5]:
+            xmin = 4.974532481842709 
+            xmax = 7.980377051772585 
+            text = "ebru" 
+        intervals [6]:
+            xmin = 7.980377051772585 
+            xmax = 12.199184436356564 
+            text = "dade" 
+        intervals [7]:
+            xmin = 12.199184436356564 
+            xmax = 12.747755102040816 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phrases" 
+        xmin = 0 
+        xmax = 12.747755102040816 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.7348314773656627 
+            text = "" 
+        intervals [2]:
+            xmin = 0.7348314773656627 
+            xmax = 2.9233960146222526 
+            text = "gemiyor" 
+        intervals [3]:
+            xmin = 2.9233960146222526 
+            xmax = 3.1748481103921584 
+            text = "" 
+        intervals [4]:
+            xmin = 3.1748481103921584 
+            xmax = 7.980377051772585 
+            text = "hançeri ebru" 
+        intervals [5]:
+            xmin = 7.980377051772585 
+            xmax = 12.199184436356564 
+            text = "dade" 
+        intervals [6]:
+            xmin = 12.199184436356564 
+            xmax = 12.747755102040816 
+            text = "" 

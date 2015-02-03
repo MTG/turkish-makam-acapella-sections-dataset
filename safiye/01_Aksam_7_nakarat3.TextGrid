@@ -1,0 +1,166 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 14.930430839002268 
+tiers? <exists> 
+size = 5 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 14.930430839002268 
+        intervals: size = 8 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.6097742855160312 
+            text = "" 
+        intervals [2]:
+            xmin = 0.6097742855160312 
+            xmax = 2.518608332369481 
+            text = "hasret" 
+        intervals [3]:
+            xmin = 2.518608332369481 
+            xmax = 4.721948203594605 
+            text = "kaldım" 
+        intervals [4]:
+            xmin = 4.721948203594605 
+            xmax = 5.038269274216034 
+            text = "" 
+        intervals [5]:
+            xmin = 5.038269274216034 
+            xmax = 9.303149916042884 
+            text = "gözlerinin" 
+        intervals [6]:
+            xmin = 9.303149916042884 
+            xmax = 9.586748117289682 
+            text = "" 
+        intervals [7]:
+            xmin = 9.586748117289682 
+            xmax = 13.92798212099067 
+            text = "rengine" 
+        intervals [8]:
+            xmin = 13.92798212099067 
+            xmax = 14.930430839002268 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "wordAligned" 
+        xmin = 0 
+        xmax = 14.930430839002268 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.43 
+            text = "" 
+        intervals [2]:
+            xmin = 0.43 
+            xmax = 2.51 
+            text = "Hasret" 
+        intervals [3]:
+            xmin = 2.51 
+            xmax = 4.74 
+            text = "kaldım" 
+        intervals [4]:
+            xmin = 4.74 
+            xmax = 9.32 
+            text = "gözlerinin" 
+        intervals [5]:
+            xmin = 9.32 
+            xmax = 14.07 
+            text = "rengine" 
+        intervals [6]:
+            xmin = 14.07 
+            xmax = 14.930430839002268 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "grTruthDuration" 
+        xmin = 0 
+        xmax = 14.930430839002268 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.609774285516 
+            text = "" 
+        intervals [2]:
+            xmin = 0.609774285516 
+            xmax = 2.93977428552 
+            text = "Hasret" 
+        intervals [3]:
+            xmin = 2.93977428552 
+            xmax = 5.83977428552 
+            text = "kaldım" 
+        intervals [4]:
+            xmin = 5.83977428552 
+            xmax = 10.4497742855 
+            text = "gözlerinin" 
+        intervals [5]:
+            xmin = 10.4497742855 
+            xmax = 14.4897742855 
+            text = "rengine" 
+        intervals [6]:
+            xmin = 14.4897742855 
+            xmax = 14.930430839002268 
+            text = "" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "wordAligned" 
+        xmin = 0 
+        xmax = 14.930430839002268 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.43 
+            text = "" 
+        intervals [2]:
+            xmin = 0.43 
+            xmax = 2.51 
+            text = "Hasret" 
+        intervals [3]:
+            xmin = 2.51 
+            xmax = 4.74 
+            text = "kaldım" 
+        intervals [4]:
+            xmin = 4.74 
+            xmax = 9.32 
+            text = "gözlerinin" 
+        intervals [5]:
+            xmin = 9.32 
+            xmax = 14.07 
+            text = "rengine" 
+        intervals [6]:
+            xmin = 14.07 
+            xmax = 14.930430839002268 
+            text = "" 
+    item [5]:
+        class = "IntervalTier" 
+        name = "grTruthDuration" 
+        xmin = 0 
+        xmax = 14.930430839002268 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.609774285516 
+            text = "" 
+        intervals [2]:
+            xmin = 0.609774285516 
+            xmax = 2.93977428552 
+            text = "Hasret" 
+        intervals [3]:
+            xmin = 2.93977428552 
+            xmax = 5.83977428552 
+            text = "kaldım" 
+        intervals [4]:
+            xmin = 5.83977428552 
+            xmax = 10.4497742855 
+            text = "gözlerinin" 
+        intervals [5]:
+            xmin = 10.4497742855 
+            xmax = 14.4897742855 
+            text = "rengine" 
+        intervals [6]:
+            xmin = 14.4897742855 
+            xmax = 14.930430839002268 
+            text = "" 

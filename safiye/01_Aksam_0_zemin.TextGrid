@@ -1,0 +1,118 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 12.933514739229025 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 12.933514739229025 
+        intervals: size = 9 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.4715256618181818 
+            text = "" 
+        intervals [2]:
+            xmin = 0.4715256618181818 
+            xmax = 2.593225890160761 
+            text = "akşam" 
+        intervals [3]:
+            xmin = 2.593225890160761 
+            xmax = 4.317166804565395 
+            text = "oldu" 
+        intervals [4]:
+            xmin = 4.317166804565395 
+            xmax = 4.598267109225664 
+            text = "" 
+        intervals [5]:
+            xmin = 4.598267109225664 
+            xmax = 7.151791725509287 
+            text = "hüzünlendim" 
+        intervals [6]:
+            xmin = 7.151791725509287 
+            xmax = 7.558866213151927 
+            text = "" 
+        intervals [7]:
+            xmin = 7.558866213151927 
+            xmax = 9.086423234053493 
+            text = "ben" 
+        intervals [8]:
+            xmin = 9.086423234053493 
+            xmax = 11.922954429928605 
+            text = "yine" 
+        intervals [9]:
+            xmin = 11.922954429928605 
+            xmax = 12.933514739229025 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "wordAligned" 
+        xmin = 0 
+        xmax = 12.933514739229025 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.44 
+            text = "" 
+        intervals [2]:
+            xmin = 0.44 
+            xmax = 2.36 
+            text = "Akşam" 
+        intervals [3]:
+            xmin = 2.36 
+            xmax = 4.33 
+            text = "oldu" 
+        intervals [4]:
+            xmin = 4.33 
+            xmax = 7.29 
+            text = "hüzünlendim" 
+        intervals [5]:
+            xmin = 7.29 
+            xmax = 9.12 
+            text = "ben" 
+        intervals [6]:
+            xmin = 9.12 
+            xmax = 11.94 
+            text = "yine" 
+        intervals [7]:
+            xmin = 11.94 
+            xmax = 12.933514739229025 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "grTruthDuration" 
+        xmin = 0 
+        xmax = 12.933514739229025 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.471525661818 
+            text = "" 
+        intervals [2]:
+            xmin = 0.471525661818 
+            xmax = 2.42152566182 
+            text = "Akşam" 
+        intervals [3]:
+            xmin = 2.42152566182 
+            xmax = 4.40152566182 
+            text = "oldu" 
+        intervals [4]:
+            xmin = 4.40152566182 
+            xmax = 8.30152566182 
+            text = "hüzünlendim" 
+        intervals [5]:
+            xmin = 8.30152566182 
+            xmax = 9.77152566182 
+            text = "ben" 
+        intervals [6]:
+            xmin = 9.77152566182 
+            xmax = 12.2015256618 
+            text = "yine" 
+        intervals [7]:
+            xmin = 12.2015256618 
+            xmax = 12.933514739229025 
+            text = "" 

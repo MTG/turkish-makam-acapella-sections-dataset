@@ -1,0 +1,284 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 12.60968253968254 
+tiers? <exists> 
+size = 10 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 12.60968253968254 
+        intervals: size = 8 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.36759779958972055 
+            text = "" 
+        intervals [2]:
+            xmin = 0.36759779958972055 
+            xmax = 2.657266505322465 
+            text = "akşam" 
+        intervals [3]:
+            xmin = 2.657266505322465 
+            xmax = 4.633276938788652 
+            text = "oldu" 
+        intervals [4]:
+            xmin = 4.633276938788652 
+            xmax = 7.07010588626572 
+            text = "hüzünlendim" 
+        intervals [5]:
+            xmin = 7.07010588626572 
+            xmax = 7.475441359797245 
+            text = "" 
+        intervals [6]:
+            xmin = 7.475441359797245 
+            xmax = 9.163623990697873 
+            text = "ben" 
+        intervals [7]:
+            xmin = 9.163623990697873 
+            xmax = 11.633637032530608 
+            text = "yine" 
+        intervals [8]:
+            xmin = 11.633637032530608 
+            xmax = 12.60968253968254 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phrases" 
+        xmin = 0 
+        xmax = 12.60968253968254 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.36759779958972055 
+            text = "" 
+        intervals [2]:
+            xmin = 0.36759779958972055 
+            xmax = 4.633276938788652 
+            text = "akşam oldu" 
+        intervals [3]:
+            xmin = 4.633276938788652 
+            xmax = 7.07010588626572 
+            text = "hüzünlendim" 
+        intervals [4]:
+            xmin = 7.07010588626572 
+            xmax = 7.475441359797245 
+            text = "" 
+        intervals [5]:
+            xmin = 7.475441359797245 
+            xmax = 11.633637032530608 
+            text = "ben yine" 
+        intervals [6]:
+            xmin = 11.633637032530608 
+            xmax = 12.60968253968254 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "aligned" 
+        xmin = 0 
+        xmax = 12.60968253968254 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 8.67 
+            text = "" 
+        intervals [2]:
+            xmin = 8.67 
+            xmax = 8.82 
+            text = "oldu" 
+        intervals [3]:
+            xmin = 8.82 
+            xmax = 10.36 
+            text = "hüzünlendim" 
+        intervals [4]:
+            xmin = 10.36 
+            xmax = 11.25 
+            text = "ben" 
+        intervals [5]:
+            xmin = 11.25 
+            xmax = 12.60968253968254 
+            text = "yine" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "aligned" 
+        xmin = 0 
+        xmax = 12.60968253968254 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 8.67 
+            text = "" 
+        intervals [2]:
+            xmin = 8.67 
+            xmax = 8.82 
+            text = "oldu" 
+        intervals [3]:
+            xmin = 8.82 
+            xmax = 10.36 
+            text = "hüzünlendim" 
+        intervals [4]:
+            xmin = 10.36 
+            xmax = 11.25 
+            text = "ben" 
+        intervals [5]:
+            xmin = 11.25 
+            xmax = 12.60968253968254 
+            text = "yine" 
+    item [5]:
+        class = "IntervalTier" 
+        name = "aligned" 
+        xmin = 0 
+        xmax = 12.60968253968254 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 8.67 
+            text = "" 
+        intervals [2]:
+            xmin = 8.67 
+            xmax = 8.82 
+            text = "oldu" 
+        intervals [3]:
+            xmin = 8.82 
+            xmax = 10.36 
+            text = "hüzünlendim" 
+        intervals [4]:
+            xmin = 10.36 
+            xmax = 11.25 
+            text = "ben" 
+        intervals [5]:
+            xmin = 11.25 
+            xmax = 12.60968253968254 
+            text = "yine" 
+    item [6]:
+        class = "IntervalTier" 
+        name = "aligned" 
+        xmin = 0 
+        xmax = 12.60968253968254 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 8.67 
+            text = "" 
+        intervals [2]:
+            xmin = 8.67 
+            xmax = 8.82 
+            text = "oldu" 
+        intervals [3]:
+            xmin = 8.82 
+            xmax = 10.36 
+            text = "hüzünlendim" 
+        intervals [4]:
+            xmin = 10.36 
+            xmax = 11.25 
+            text = "ben" 
+        intervals [5]:
+            xmin = 11.25 
+            xmax = 12.60968253968254 
+            text = "yine" 
+    item [7]:
+        class = "IntervalTier" 
+        name = "aligned" 
+        xmin = 0 
+        xmax = 12.60968253968254 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.3 
+            text = "" 
+        intervals [2]:
+            xmin = 2.3 
+            xmax = 4.48 
+            text = "oldu" 
+        intervals [3]:
+            xmin = 4.48 
+            xmax = 7.4 
+            text = "hüzünlendim" 
+        intervals [4]:
+            xmin = 7.4 
+            xmax = 9.22 
+            text = "ben" 
+        intervals [5]:
+            xmin = 9.22 
+            xmax = 12.60968253968254 
+            text = "yine" 
+    item [8]:
+        class = "IntervalTier" 
+        name = "aligned" 
+        xmin = 0 
+        xmax = 12.60968253968254 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.3 
+            text = "" 
+        intervals [2]:
+            xmin = 2.3 
+            xmax = 4.48 
+            text = "oldu" 
+        intervals [3]:
+            xmin = 4.48 
+            xmax = 7.4 
+            text = "hüzünlendim" 
+        intervals [4]:
+            xmin = 7.4 
+            xmax = 9.22 
+            text = "ben" 
+        intervals [5]:
+            xmin = 9.22 
+            xmax = 12.60968253968254 
+            text = "yine" 
+    item [9]:
+        class = "IntervalTier" 
+        name = "aligned" 
+        xmin = 0 
+        xmax = 12.60968253968254 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.3 
+            text = "" 
+        intervals [2]:
+            xmin = 2.3 
+            xmax = 4.47 
+            text = "oldu" 
+        intervals [3]:
+            xmin = 4.47 
+            xmax = 7.56 
+            text = "hüzünlendim" 
+        intervals [4]:
+            xmin = 7.56 
+            xmax = 9.22 
+            text = "ben" 
+        intervals [5]:
+            xmin = 9.22 
+            xmax = 12.60968253968254 
+            text = "yine" 
+    item [10]:
+        class = "IntervalTier" 
+        name = "aligned" 
+        xmin = 0 
+        xmax = 12.60968253968254 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.3 
+            text = "" 
+        intervals [2]:
+            xmin = 2.3 
+            xmax = 4.47 
+            text = "oldu" 
+        intervals [3]:
+            xmin = 4.47 
+            xmax = 7.56 
+            text = "hüzünlendim" 
+        intervals [4]:
+            xmin = 7.56 
+            xmax = 9.22 
+            text = "ben" 
+        intervals [5]:
+            xmin = 9.22 
+            xmax = 12.60968253968254 
+            text = "yine" 

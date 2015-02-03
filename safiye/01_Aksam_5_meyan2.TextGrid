@@ -1,0 +1,206 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 13.096054421768708 
+tiers? <exists> 
+size = 5 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 13.096054421768708 
+        intervals: size = 10 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.39134402083138936 
+            text = "" 
+        intervals [2]:
+            xmin = 0.39134402083138936 
+            xmax = 0.7173313223110789 
+            text = "gel" 
+        intervals [3]:
+            xmin = 0.7173313223110789 
+            xmax = 4.2948820807251105 
+            text = "mehtabım" 
+        intervals [4]:
+            xmin = 4.2948820807251105 
+            xmax = 4.785956856271573 
+            text = "" 
+        intervals [5]:
+            xmin = 4.785956856271573 
+            xmax = 5.819246342714028 
+            text = "gel" 
+        intervals [6]:
+            xmin = 5.819246342714028 
+            xmax = 8.538806866059103 
+            text = "sevgilim" 
+        intervals [7]:
+            xmin = 8.538806866059103 
+            xmax = 8.90492715079333 
+            text = "" 
+        intervals [8]:
+            xmin = 8.90492715079333 
+            xmax = 9.823406694297736 
+            text = "gel" 
+        intervals [9]:
+            xmin = 9.823406694297736 
+            xmax = 12.507089110474668 
+            text = "yine" 
+        intervals [10]:
+            xmin = 12.507089110474668 
+            xmax = 13.096054421768708 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "wordAligned" 
+        xmin = 0 
+        xmax = 13.096054421768708 
+        intervals: size = 8 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.27 
+            text = "" 
+        intervals [2]:
+            xmin = 0.27 
+            xmax = 0.68 
+            text = "Gel" 
+        intervals [3]:
+            xmin = 0.68 
+            xmax = 4.88 
+            text = "mehtabım" 
+        intervals [4]:
+            xmin = 4.88 
+            xmax = 5.79 
+            text = "gel" 
+        intervals [5]:
+            xmin = 5.79 
+            xmax = 8.6 
+            text = "sevgilim" 
+        intervals [6]:
+            xmin = 8.6 
+            xmax = 9.78 
+            text = "gel" 
+        intervals [7]:
+            xmin = 9.78 
+            xmax = 12.72 
+            text = "yine" 
+        intervals [8]:
+            xmin = 12.72 
+            xmax = 13.096054421768708 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "grTruthDuration" 
+        xmin = 0 
+        xmax = 13.096054421768708 
+        intervals: size = 8 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.391344020831 
+            text = "" 
+        intervals [2]:
+            xmin = 0.391344020831 
+            xmax = 0.871344020831 
+            text = "Gel" 
+        intervals [3]:
+            xmin = 0.871344020831 
+            xmax = 4.83134402083 
+            text = "mehtabım" 
+        intervals [4]:
+            xmin = 4.83134402083 
+            xmax = 5.82134402083 
+            text = "gel" 
+        intervals [5]:
+            xmin = 5.82134402083 
+            xmax = 8.76134402083 
+            text = "sevgilim" 
+        intervals [6]:
+            xmin = 8.76134402083 
+            xmax = 9.75134402083 
+            text = "gel" 
+        intervals [7]:
+            xmin = 9.75134402083 
+            xmax = 12.2113440208 
+            text = "yine" 
+        intervals [8]:
+            xmin = 12.2113440208 
+            xmax = 13.096054421768708 
+            text = "" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "wordAligned" 
+        xmin = 0 
+        xmax = 13.096054421768708 
+        intervals: size = 8 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.27 
+            text = "" 
+        intervals [2]:
+            xmin = 0.27 
+            xmax = 0.68 
+            text = "Gel" 
+        intervals [3]:
+            xmin = 0.68 
+            xmax = 4.88 
+            text = "mehtabım" 
+        intervals [4]:
+            xmin = 4.88 
+            xmax = 5.79 
+            text = "gel" 
+        intervals [5]:
+            xmin = 5.79 
+            xmax = 8.6 
+            text = "sevgilim" 
+        intervals [6]:
+            xmin = 8.6 
+            xmax = 9.78 
+            text = "gel" 
+        intervals [7]:
+            xmin = 9.78 
+            xmax = 12.72 
+            text = "yine" 
+        intervals [8]:
+            xmin = 12.72 
+            xmax = 13.096054421768708 
+            text = "" 
+    item [5]:
+        class = "IntervalTier" 
+        name = "grTruthDuration" 
+        xmin = 0 
+        xmax = 13.096054421768708 
+        intervals: size = 8 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.391344020831 
+            text = "" 
+        intervals [2]:
+            xmin = 0.391344020831 
+            xmax = 0.871344020831 
+            text = "Gel" 
+        intervals [3]:
+            xmin = 0.871344020831 
+            xmax = 4.83134402083 
+            text = "mehtabım" 
+        intervals [4]:
+            xmin = 4.83134402083 
+            xmax = 5.82134402083 
+            text = "gel" 
+        intervals [5]:
+            xmin = 5.82134402083 
+            xmax = 8.76134402083 
+            text = "sevgilim" 
+        intervals [6]:
+            xmin = 8.76134402083 
+            xmax = 9.75134402083 
+            text = "gel" 
+        intervals [7]:
+            xmin = 9.75134402083 
+            xmax = 12.2113440208 
+            text = "yine" 
+        intervals [8]:
+            xmin = 12.2113440208 
+            xmax = 13.096054421768708 
+            text = "" 

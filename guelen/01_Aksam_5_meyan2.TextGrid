@@ -1,0 +1,80 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 12.685578231292517 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 12.685578231292517 
+        intervals: size = 9 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.2029932166801358 
+            text = "" 
+        intervals [2]:
+            xmin = 0.2029932166801358 
+            xmax = 0.6019478967086274 
+            text = "gel" 
+        intervals [3]:
+            xmin = 0.6019478967086274 
+            xmax = 4.25294160588496 
+            text = "mehtabım" 
+        intervals [4]:
+            xmin = 4.25294160588496 
+            xmax = 4.669984346192092 
+            text = "" 
+        intervals [5]:
+            xmin = 4.669984346192092 
+            xmax = 5.713038369583822 
+            text = "gel" 
+        intervals [6]:
+            xmin = 5.713038369583822 
+            xmax = 8.891160053433454 
+            text = "sevgilim" 
+        intervals [7]:
+            xmin = 8.891160053433454 
+            xmax = 9.794752657432243 
+            text = "gel" 
+        intervals [8]:
+            xmin = 9.794752657432243 
+            xmax = 12.317861236290398 
+            text = "yine" 
+        intervals [9]:
+            xmin = 12.317861236290398 
+            xmax = 12.685578231292517 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phrases" 
+        xmin = 0 
+        xmax = 12.685578231292517 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.2029932166801358 
+            text = "" 
+        intervals [2]:
+            xmin = 0.2029932166801358 
+            xmax = 4.25294160588496 
+            text = "gel mehtabım" 
+        intervals [3]:
+            xmin = 4.25294160588496 
+            xmax = 4.669984346192092 
+            text = "" 
+        intervals [4]:
+            xmin = 4.669984346192092 
+            xmax = 8.891160053433454 
+            text = "gel sevgilim" 
+        intervals [5]:
+            xmin = 8.891160053433454 
+            xmax = 12.317861236290398 
+            text = "gel yine" 
+        intervals [6]:
+            xmin = 12.317861236290398 
+            xmax = 12.685578231292517 
+            text = "" 

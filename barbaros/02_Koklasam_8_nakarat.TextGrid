@@ -1,0 +1,118 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 18.426848072562358 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 18.426848072562358 
+        intervals: size = 10 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.6314138012507136 
+            text = "" 
+        intervals [2]:
+            xmin = 0.6314138012507136 
+            xmax = 4.401416871341821 
+            text = "Doyamam" 
+        intervals [3]:
+            xmin = 4.401416871341821 
+            xmax = 6.313017582517234 
+            text = "ömrüme" 
+        intervals [4]:
+            xmin = 6.313017582517234 
+            xmax = 6.743800841373665 
+            text = "" 
+        intervals [5]:
+            xmin = 6.743800841373665 
+            xmax = 9.826073388978317 
+            text = "ben" 
+        intervals [6]:
+            xmin = 9.826073388978317 
+            xmax = 10.983803397154976 
+            text = "" 
+        intervals [7]:
+            xmin = 10.983803397154976 
+            xmax = 13.070280400730162 
+            text = "kalbini" 
+        intervals [8]:
+            xmin = 13.070280400730162 
+            xmax = 15.910757513814756 
+            text = "çalsam" 
+        intervals [9]:
+            xmin = 15.910757513814756 
+            xmax = 16.59666877751986 
+            text = "da" 
+        intervals [10]:
+            xmin = 16.59666877751986 
+            xmax = 18.426848072562358 
+            text = "senin" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phrases" 
+        xmin = 0 
+        xmax = 18.426848072562358 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.6314138012507136 
+            text = "" 
+        intervals [2]:
+            xmin = 0.6314138012507136 
+            xmax = 6.313017582517234 
+            text = "Doyamam ömrüme" 
+        intervals [3]:
+            xmin = 6.313017582517234 
+            xmax = 6.743800841373665 
+            text = "" 
+        intervals [4]:
+            xmin = 6.743800841373665 
+            xmax = 13.070280400730162 
+            text = "ben kalbini" 
+        intervals [5]:
+            xmin = 13.070280400730162 
+            xmax = 15.910757513814756 
+            text = "çalsam" 
+        intervals [6]:
+            xmin = 15.910757513814756 
+            xmax = 18.426848072562358 
+            text = "da senin" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "aligned" 
+        xmin = 0 
+        xmax = 18.426848072562358 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 4.51 
+            text = "" 
+        intervals [2]:
+            xmin = 4.51 
+            xmax = 6.61 
+            text = "ömrüme" 
+        intervals [3]:
+            xmin = 6.61 
+            xmax = 10.11 
+            text = "ben" 
+        intervals [4]:
+            xmin = 10.11 
+            xmax = 13.03 
+            text = "kalbini" 
+        intervals [5]:
+            xmin = 13.03 
+            xmax = 15.82 
+            text = "çalsam" 
+        intervals [6]:
+            xmin = 15.82 
+            xmax = 16.6 
+            text = "da" 
+        intervals [7]:
+            xmin = 16.6 
+            xmax = 18.426848072562358 
+            text = "senin" 

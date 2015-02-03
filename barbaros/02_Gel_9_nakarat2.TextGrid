@@ -1,0 +1,80 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 10.509455782312925 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 10.509455782312925 
+        intervals: size = 9 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.6273276950193982 
+            text = "" 
+        intervals [2]:
+            xmin = 1.6273276950193982 
+            xmax = 3.99172625417429 
+            text = "Kumru" 
+        intervals [3]:
+            xmin = 3.99172625417429 
+            xmax = 5.452431794817805 
+            text = "gibi" 
+        intervals [4]:
+            xmin = 5.452431794817805 
+            xmax = 5.7211555473672036 
+            text = "a" 
+        intervals [5]:
+            xmin = 5.7211555473672036 
+            xmax = 6.233650132586415 
+            text = "canım" 
+        intervals [6]:
+            xmin = 6.233650132586415 
+            xmax = 7.462101572812236 
+            text = "sevişelim" 
+        intervals [7]:
+            xmin = 7.462101572812236 
+            xmax = 8.1220237586538 
+            text = "can" 
+        intervals [8]:
+            xmin = 8.1220237586538 
+            xmax = 10.118627812300575 
+            text = "cana" 
+        intervals [9]:
+            xmin = 10.118627812300575 
+            xmax = 10.509455782312925 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phrases" 
+        xmin = 0 
+        xmax = 10.509455782312925 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.6273276950193982 
+            text = "" 
+        intervals [2]:
+            xmin = 1.6273276950193982 
+            xmax = 5.452431794817805 
+            text = "Kumru gibi" 
+        intervals [3]:
+            xmin = 5.452431794817805 
+            xmax = 6.233650132586415 
+            text = "a canım" 
+        intervals [4]:
+            xmin = 6.233650132586415 
+            xmax = 7.462101572812236 
+            text = "sevişelim" 
+        intervals [5]:
+            xmin = 7.462101572812236 
+            xmax = 10.118627812300575 
+            text = "can cana" 
+        intervals [6]:
+            xmin = 10.118627812300575 
+            xmax = 10.509455782312925 
+            text = "" 

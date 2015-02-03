@@ -1,0 +1,580 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 8.156394557823129 
+tiers? <exists> 
+size = 26 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 8.156394557823129 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.2388473784382927 
+            text = "çare" 
+        intervals [2]:
+            xmin = 1.2388473784382927 
+            xmax = 3.0205170956292857 
+            text = "bulunmaz" 
+        intervals [3]:
+            xmin = 3.0205170956292857 
+            xmax = 3.3661252681947627 
+            text = "" 
+        intervals [4]:
+            xmin = 3.3661252681947627 
+            xmax = 5.2550526941129725 
+            text = "bilirim" 
+        intervals [5]:
+            xmin = 5.2550526941129725 
+            xmax = 8.156394557823129 
+            text = "yareme" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phrases" 
+        xmin = 0 
+        xmax = 8.156394557823129 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.2388473784382927 
+            text = "çare" 
+        intervals [2]:
+            xmin = 1.2388473784382927 
+            xmax = 5.2550526941129725 
+            text = "bulunmaz bilirim" 
+        intervals [3]:
+            xmin = 5.2550526941129725 
+            xmax = 8.156394557823129 
+            text = "yareme" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "aligned" 
+        xmin = 0 
+        xmax = 8.156394557823129 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.51 
+            text = "" 
+        intervals [2]:
+            xmin = 3.51 
+            xmax = 3.7 
+            text = "bulunmaz" 
+        intervals [3]:
+            xmin = 3.7 
+            xmax = 5.24 
+            text = "bilirim" 
+        intervals [4]:
+            xmin = 5.24 
+            xmax = 8.156394557823129 
+            text = "yareme" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "aligned" 
+        xmin = 0 
+        xmax = 8.156394557823129 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.51 
+            text = "" 
+        intervals [2]:
+            xmin = 3.51 
+            xmax = 3.7 
+            text = "bulunmaz" 
+        intervals [3]:
+            xmin = 3.7 
+            xmax = 5.24 
+            text = "bilirim" 
+        intervals [4]:
+            xmin = 5.24 
+            xmax = 8.156394557823129 
+            text = "yareme" 
+    item [5]:
+        class = "IntervalTier" 
+        name = "aligned" 
+        xmin = 0 
+        xmax = 8.156394557823129 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.15 
+            text = "" 
+        intervals [2]:
+            xmin = 1.15 
+            xmax = 3.11 
+            text = "bulunmaz" 
+        intervals [3]:
+            xmin = 3.11 
+            xmax = 5.24 
+            text = "bilirim" 
+        intervals [4]:
+            xmin = 5.24 
+            xmax = 8.156394557823129 
+            text = "yareme" 
+    item [6]:
+        class = "IntervalTier" 
+        name = "aligned" 
+        xmin = 0 
+        xmax = 8.156394557823129 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.51 
+            text = "" 
+        intervals [2]:
+            xmin = 3.51 
+            xmax = 3.7 
+            text = "bulunmaz" 
+        intervals [3]:
+            xmin = 3.7 
+            xmax = 5.24 
+            text = "bilirim" 
+        intervals [4]:
+            xmin = 5.24 
+            xmax = 8.156394557823129 
+            text = "yareme" 
+    item [7]:
+        class = "IntervalTier" 
+        name = "aligned" 
+        xmin = 0 
+        xmax = 8.156394557823129 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.17 
+            text = "" 
+        intervals [2]:
+            xmin = 1.17 
+            xmax = 3.32 
+            text = "bulunmaz" 
+        intervals [3]:
+            xmin = 3.32 
+            xmax = 5.24 
+            text = "bilirim" 
+        intervals [4]:
+            xmin = 5.24 
+            xmax = 8.156394557823129 
+            text = "yareme" 
+    item [8]:
+        class = "IntervalTier" 
+        name = "aligned" 
+        xmin = 0 
+        xmax = 8.156394557823129 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.17 
+            text = "" 
+        intervals [2]:
+            xmin = 1.17 
+            xmax = 3.32 
+            text = "bulunmaz" 
+        intervals [3]:
+            xmin = 3.32 
+            xmax = 5.24 
+            text = "bilirim" 
+        intervals [4]:
+            xmin = 5.24 
+            xmax = 8.156394557823129 
+            text = "yareme" 
+    item [9]:
+        class = "IntervalTier" 
+        name = "aligned" 
+        xmin = 0 
+        xmax = 8.156394557823129 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.15 
+            text = "" 
+        intervals [2]:
+            xmin = 1.15 
+            xmax = 3.3 
+            text = "bulunmaz" 
+        intervals [3]:
+            xmin = 3.3 
+            xmax = 5.24 
+            text = "bilirim" 
+        intervals [4]:
+            xmin = 5.24 
+            xmax = 8.156394557823129 
+            text = "yareme" 
+    item [10]:
+        class = "IntervalTier" 
+        name = "aligned" 
+        xmin = 0 
+        xmax = 8.156394557823129 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.15 
+            text = "" 
+        intervals [2]:
+            xmin = 1.15 
+            xmax = 3.3 
+            text = "bulunmaz" 
+        intervals [3]:
+            xmin = 3.3 
+            xmax = 5.24 
+            text = "bilirim" 
+        intervals [4]:
+            xmin = 5.24 
+            xmax = 8.156394557823129 
+            text = "yareme" 
+    item [11]:
+        class = "IntervalTier" 
+        name = "aligned" 
+        xmin = 0 
+        xmax = 8.156394557823129 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.15 
+            text = "" 
+        intervals [2]:
+            xmin = 1.15 
+            xmax = 3.3 
+            text = "bulunmaz" 
+        intervals [3]:
+            xmin = 3.3 
+            xmax = 5.24 
+            text = "bilirim" 
+        intervals [4]:
+            xmin = 5.24 
+            xmax = 8.156394557823129 
+            text = "yareme" 
+    item [12]:
+        class = "IntervalTier" 
+        name = "aligned" 
+        xmin = 0 
+        xmax = 8.156394557823129 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.15 
+            text = "" 
+        intervals [2]:
+            xmin = 1.15 
+            xmax = 3.3 
+            text = "bulunmaz" 
+        intervals [3]:
+            xmin = 3.3 
+            xmax = 5.24 
+            text = "bilirim" 
+        intervals [4]:
+            xmin = 5.24 
+            xmax = 8.156394557823129 
+            text = "yareme" 
+    item [13]:
+        class = "IntervalTier" 
+        name = "aligned" 
+        xmin = 0 
+        xmax = 8.156394557823129 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.15 
+            text = "" 
+        intervals [2]:
+            xmin = 1.15 
+            xmax = 3.11 
+            text = "bulunmaz" 
+        intervals [3]:
+            xmin = 3.11 
+            xmax = 5.24 
+            text = "bilirim" 
+        intervals [4]:
+            xmin = 5.24 
+            xmax = 8.156394557823129 
+            text = "yareme" 
+    item [14]:
+        class = "IntervalTier" 
+        name = "aligned" 
+        xmin = 0 
+        xmax = 8.156394557823129 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.15 
+            text = "" 
+        intervals [2]:
+            xmin = 1.15 
+            xmax = 3.11 
+            text = "bulunmaz" 
+        intervals [3]:
+            xmin = 3.11 
+            xmax = 5.24 
+            text = "bilirim" 
+        intervals [4]:
+            xmin = 5.24 
+            xmax = 8.156394557823129 
+            text = "yareme" 
+    item [15]:
+        class = "IntervalTier" 
+        name = "aligned" 
+        xmin = 0 
+        xmax = 8.156394557823129 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.17 
+            text = "" 
+        intervals [2]:
+            xmin = 1.17 
+            xmax = 3.32 
+            text = "bulunmaz" 
+        intervals [3]:
+            xmin = 3.32 
+            xmax = 5.24 
+            text = "bilirim" 
+        intervals [4]:
+            xmin = 5.24 
+            xmax = 8.156394557823129 
+            text = "yareme" 
+    item [16]:
+        class = "IntervalTier" 
+        name = "aligned" 
+        xmin = 0 
+        xmax = 8.156394557823129 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.12 
+            text = "" 
+        intervals [2]:
+            xmin = 1.12 
+            xmax = 3.32 
+            text = "bulunmaz" 
+        intervals [3]:
+            xmin = 3.32 
+            xmax = 5.24 
+            text = "bilirim" 
+        intervals [4]:
+            xmin = 5.24 
+            xmax = 8.156394557823129 
+            text = "yareme" 
+    item [17]:
+        class = "IntervalTier" 
+        name = "aligned" 
+        xmin = 0 
+        xmax = 8.156394557823129 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.12 
+            text = "" 
+        intervals [2]:
+            xmin = 1.12 
+            xmax = 3.32 
+            text = "bulunmaz" 
+        intervals [3]:
+            xmin = 3.32 
+            xmax = 5.24 
+            text = "bilirim" 
+        intervals [4]:
+            xmin = 5.24 
+            xmax = 8.156394557823129 
+            text = "yareme" 
+    item [18]:
+        class = "IntervalTier" 
+        name = "aligned" 
+        xmin = 0 
+        xmax = 8.156394557823129 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.12 
+            text = "" 
+        intervals [2]:
+            xmin = 1.12 
+            xmax = 3.32 
+            text = "bulunmaz" 
+        intervals [3]:
+            xmin = 3.32 
+            xmax = 5.24 
+            text = "bilirim" 
+        intervals [4]:
+            xmin = 5.24 
+            xmax = 8.156394557823129 
+            text = "yareme" 
+    item [19]:
+        class = "IntervalTier" 
+        name = "aligned" 
+        xmin = 0 
+        xmax = 8.156394557823129 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.12 
+            text = "" 
+        intervals [2]:
+            xmin = 1.12 
+            xmax = 3.32 
+            text = "bulunmaz" 
+        intervals [3]:
+            xmin = 3.32 
+            xmax = 5.24 
+            text = "bilirim" 
+        intervals [4]:
+            xmin = 5.24 
+            xmax = 8.156394557823129 
+            text = "yareme" 
+    item [20]:
+        class = "IntervalTier" 
+        name = "aligned" 
+        xmin = 0 
+        xmax = 8.156394557823129 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.12 
+            text = "" 
+        intervals [2]:
+            xmin = 1.12 
+            xmax = 3.32 
+            text = "bulunmaz" 
+        intervals [3]:
+            xmin = 3.32 
+            xmax = 5.24 
+            text = "bilirim" 
+        intervals [4]:
+            xmin = 5.24 
+            xmax = 8.156394557823129 
+            text = "yareme" 
+    item [21]:
+        class = "IntervalTier" 
+        name = "aligned" 
+        xmin = 0 
+        xmax = 8.156394557823129 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.17 
+            text = "" 
+        intervals [2]:
+            xmin = 1.17 
+            xmax = 3.32 
+            text = "bulunmaz" 
+        intervals [3]:
+            xmin = 3.32 
+            xmax = 5.24 
+            text = "bilirim" 
+        intervals [4]:
+            xmin = 5.24 
+            xmax = 8.156394557823129 
+            text = "yareme" 
+    item [22]:
+        class = "IntervalTier" 
+        name = "aligned" 
+        xmin = 0 
+        xmax = 8.156394557823129 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.17 
+            text = "" 
+        intervals [2]:
+            xmin = 1.17 
+            xmax = 3.32 
+            text = "bulunmaz" 
+        intervals [3]:
+            xmin = 3.32 
+            xmax = 5.24 
+            text = "bilirim" 
+        intervals [4]:
+            xmin = 5.24 
+            xmax = 8.156394557823129 
+            text = "yareme" 
+    item [23]:
+        class = "IntervalTier" 
+        name = "aligned" 
+        xmin = 0 
+        xmax = 8.156394557823129 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.17 
+            text = "" 
+        intervals [2]:
+            xmin = 1.17 
+            xmax = 3.32 
+            text = "bulunmaz" 
+        intervals [3]:
+            xmin = 3.32 
+            xmax = 5.24 
+            text = "bilirim" 
+        intervals [4]:
+            xmin = 5.24 
+            xmax = 8.156394557823129 
+            text = "yareme" 
+    item [24]:
+        class = "IntervalTier" 
+        name = "aligned" 
+        xmin = 0 
+        xmax = 8.156394557823129 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.17 
+            text = "" 
+        intervals [2]:
+            xmin = 1.17 
+            xmax = 3.32 
+            text = "bulunmaz" 
+        intervals [3]:
+            xmin = 3.32 
+            xmax = 5.24 
+            text = "bilirim" 
+        intervals [4]:
+            xmin = 5.24 
+            xmax = 8.156394557823129 
+            text = "yareme" 
+    item [25]:
+        class = "IntervalTier" 
+        name = "aligned" 
+        xmin = 0 
+        xmax = 8.156394557823129 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.17 
+            text = "" 
+        intervals [2]:
+            xmin = 1.17 
+            xmax = 3.32 
+            text = "bulunmaz" 
+        intervals [3]:
+            xmin = 3.32 
+            xmax = 5.24 
+            text = "bilirim" 
+        intervals [4]:
+            xmin = 5.24 
+            xmax = 8.156394557823129 
+            text = "yareme" 
+    item [26]:
+        class = "IntervalTier" 
+        name = "aligned" 
+        xmin = 0 
+        xmax = 8.156394557823129 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.17 
+            text = "" 
+        intervals [2]:
+            xmin = 1.17 
+            xmax = 3.32 
+            text = "bulunmaz" 
+        intervals [3]:
+            xmin = 3.32 
+            xmax = 5.24 
+            text = "bilirim" 
+        intervals [4]:
+            xmin = 5.24 
+            xmax = 8.156394557823129 
+            text = "yareme" 

@@ -1,0 +1,976 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 10.263219954648527 
+tiers? <exists> 
+size = 32 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 10.263219954648527 
+        intervals: size = 8 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.6216046789585788 
+            text = "" 
+        intervals [2]:
+            xmin = 0.6216046789585788 
+            xmax = 1.0639825885239578 
+            text = "Gel" 
+        intervals [3]:
+            xmin = 1.0639825885239578 
+            xmax = 3.065930077574062 
+            text = "güzelim" 
+        intervals [4]:
+            xmin = 3.065930077574062 
+            xmax = 5.300313417412756 
+            text = "Çamlıcaya" 
+        intervals [5]:
+            xmin = 5.300313417412756 
+            xmax = 5.600230644236741 
+            text = " " 
+        intervals [6]:
+            xmin = 5.600230644236741 
+            xmax = 7.969576736146228 
+            text = "bu" 
+        intervals [7]:
+            xmin = 7.969576736146228 
+            xmax = 9.559138038313353 
+            text = "gece" 
+        intervals [8]:
+            xmin = 9.559138038313353 
+            xmax = 10.263219954648527 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "aligned" 
+        xmin = 0 
+        xmax = 10.263219954648527 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.98 
+            text = "" 
+        intervals [2]:
+            xmin = 0.98 
+            xmax = 3.02 
+            text = "güzelim" 
+        intervals [3]:
+            xmin = 3.02 
+            xmax = 5.47 
+            text = "Çamlıcaya" 
+        intervals [4]:
+            xmin = 5.47 
+            xmax = 7.88 
+            text = "bu" 
+        intervals [5]:
+            xmin = 7.88 
+            xmax = 10.263219954648527 
+            text = "gece" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "aligned" 
+        xmin = 0 
+        xmax = 10.263219954648527 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.44 
+            text = "" 
+        intervals [2]:
+            xmin = 0.44 
+            xmax = 3.05 
+            text = "güzelim" 
+        intervals [3]:
+            xmin = 3.05 
+            xmax = 5.44 
+            text = "Çamlıcaya" 
+        intervals [4]:
+            xmin = 5.44 
+            xmax = 8.51 
+            text = "bu" 
+        intervals [5]:
+            xmin = 8.51 
+            xmax = 10.263219954648527 
+            text = "gece" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "aligned" 
+        xmin = 0 
+        xmax = 10.263219954648527 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.7 
+            text = "" 
+        intervals [2]:
+            xmin = 0.7 
+            xmax = 3.06 
+            text = "güzelim" 
+        intervals [3]:
+            xmin = 3.06 
+            xmax = 6.09 
+            text = "Çamlıcaya" 
+        intervals [4]:
+            xmin = 6.09 
+            xmax = 8.85 
+            text = "bu" 
+        intervals [5]:
+            xmin = 8.85 
+            xmax = 10.263219954648527 
+            text = "gece" 
+    item [5]:
+        class = "IntervalTier" 
+        name = "aligned" 
+        xmin = 0 
+        xmax = 10.263219954648527 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.99 
+            text = "" 
+        intervals [2]:
+            xmin = 0.99 
+            xmax = 3.05 
+            text = "güzelim" 
+        intervals [3]:
+            xmin = 3.05 
+            xmax = 5.51 
+            text = "Çamlıcaya" 
+        intervals [4]:
+            xmin = 5.51 
+            xmax = 8.2 
+            text = "bu" 
+        intervals [5]:
+            xmin = 8.2 
+            xmax = 10.263219954648527 
+            text = "gece" 
+    item [6]:
+        class = "IntervalTier" 
+        name = "aligned" 
+        xmin = 0 
+        xmax = 10.263219954648527 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.99 
+            text = "" 
+        intervals [2]:
+            xmin = 0.99 
+            xmax = 3.05 
+            text = "güzelim" 
+        intervals [3]:
+            xmin = 3.05 
+            xmax = 5.51 
+            text = "Çamlıcaya" 
+        intervals [4]:
+            xmin = 5.51 
+            xmax = 8.2 
+            text = "bu" 
+        intervals [5]:
+            xmin = 8.2 
+            xmax = 10.263219954648527 
+            text = "gece" 
+    item [7]:
+        class = "IntervalTier" 
+        name = "aligned" 
+        xmin = 0 
+        xmax = 10.263219954648527 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.99 
+            text = "" 
+        intervals [2]:
+            xmin = 0.99 
+            xmax = 3.05 
+            text = "güzelim" 
+        intervals [3]:
+            xmin = 3.05 
+            xmax = 5.51 
+            text = "Çamlıcaya" 
+        intervals [4]:
+            xmin = 5.51 
+            xmax = 8.2 
+            text = "bu" 
+        intervals [5]:
+            xmin = 8.2 
+            xmax = 10.263219954648527 
+            text = "gece" 
+    item [8]:
+        class = "IntervalTier" 
+        name = "aligned" 
+        xmin = 0 
+        xmax = 10.263219954648527 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.99 
+            text = "" 
+        intervals [2]:
+            xmin = 0.99 
+            xmax = 3.05 
+            text = "güzelim" 
+        intervals [3]:
+            xmin = 3.05 
+            xmax = 5.51 
+            text = "Çamlıcaya" 
+        intervals [4]:
+            xmin = 5.51 
+            xmax = 8.2 
+            text = "bu" 
+        intervals [5]:
+            xmin = 8.2 
+            xmax = 10.263219954648527 
+            text = "gece" 
+    item [9]:
+        class = "IntervalTier" 
+        name = "wordAligned" 
+        xmin = 0 
+        xmax = 10.263219954648527 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.99 
+            text = "" 
+        intervals [2]:
+            xmin = 0.99 
+            xmax = 3.05 
+            text = "güzelim" 
+        intervals [3]:
+            xmin = 3.05 
+            xmax = 5.51 
+            text = "Çamlıcaya" 
+        intervals [4]:
+            xmin = 5.51 
+            xmax = 8.2 
+            text = "bu" 
+        intervals [5]:
+            xmin = 8.2 
+            xmax = 10.263219954648527 
+            text = "gece" 
+    item [10]:
+        class = "IntervalTier" 
+        name = "wordAligned" 
+        xmin = 0 
+        xmax = 10.263219954648527 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.99 
+            text = "" 
+        intervals [2]:
+            xmin = 0.99 
+            xmax = 3.05 
+            text = "güzelim" 
+        intervals [3]:
+            xmin = 3.05 
+            xmax = 5.51 
+            text = "Çamlıcaya" 
+        intervals [4]:
+            xmin = 5.51 
+            xmax = 8.2 
+            text = "bu" 
+        intervals [5]:
+            xmin = 8.2 
+            xmax = 10.263219954648527 
+            text = "gece" 
+    item [11]:
+        class = "IntervalTier" 
+        name = "grTruthDuration" 
+        xmin = 0 
+        xmax = 10.263219954648527 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.27160467896 
+            text = "" 
+        intervals [2]:
+            xmin = 1.27160467896 
+            xmax = 3.48160467896 
+            text = "güzelim" 
+        intervals [3]:
+            xmin = 3.48160467896 
+            xmax = 6.29160467896 
+            text = "Çamlıcaya" 
+        intervals [4]:
+            xmin = 6.29160467896 
+            xmax = 8.74160467896 
+            text = "bu" 
+        intervals [5]:
+            xmin = 8.74160467896 
+            xmax = 10.263219954648527 
+            text = "gece" 
+    item [12]:
+        class = "IntervalTier" 
+        name = "wordAligned" 
+        xmin = 0 
+        xmax = 10.263219954648527 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.99 
+            text = "" 
+        intervals [2]:
+            xmin = 0.99 
+            xmax = 3.05 
+            text = "güzelim" 
+        intervals [3]:
+            xmin = 3.05 
+            xmax = 5.51 
+            text = "Çamlıcaya" 
+        intervals [4]:
+            xmin = 5.51 
+            xmax = 8.2 
+            text = "bu" 
+        intervals [5]:
+            xmin = 8.2 
+            xmax = 10.263219954648527 
+            text = "gece" 
+    item [13]:
+        class = "IntervalTier" 
+        name = "wordAligned" 
+        xmin = 0 
+        xmax = 10.263219954648527 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.54 
+            text = "" 
+        intervals [2]:
+            xmin = 0.54 
+            xmax = 0.99 
+            text = "Gel" 
+        intervals [3]:
+            xmin = 0.99 
+            xmax = 3.05 
+            text = "güzelim" 
+        intervals [4]:
+            xmin = 3.05 
+            xmax = 5.51 
+            text = "Çamlıcaya" 
+        intervals [5]:
+            xmin = 5.51 
+            xmax = 8.2 
+            text = "bu" 
+        intervals [6]:
+            xmin = 8.2 
+            xmax = 10.263219954648527 
+            text = "gece" 
+    item [14]:
+        class = "IntervalTier" 
+        name = "wordAligned" 
+        xmin = 0 
+        xmax = 10.263219954648527 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.54 
+            text = "" 
+        intervals [2]:
+            xmin = 0.54 
+            xmax = 0.99 
+            text = "Gel" 
+        intervals [3]:
+            xmin = 0.99 
+            xmax = 3.05 
+            text = "güzelim" 
+        intervals [4]:
+            xmin = 3.05 
+            xmax = 5.51 
+            text = "Çamlıcaya" 
+        intervals [5]:
+            xmin = 5.51 
+            xmax = 8.2 
+            text = "bu" 
+        intervals [6]:
+            xmin = 8.2 
+            xmax = 10.263219954648527 
+            text = "gece" 
+    item [15]:
+        class = "IntervalTier" 
+        name = "wordAligned" 
+        xmin = 0 
+        xmax = 10.263219954648527 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.54 
+            text = "" 
+        intervals [2]:
+            xmin = 0.54 
+            xmax = 0.99 
+            text = "Gel" 
+        intervals [3]:
+            xmin = 0.99 
+            xmax = 3.05 
+            text = "güzelim" 
+        intervals [4]:
+            xmin = 3.05 
+            xmax = 5.51 
+            text = "Çamlıcaya" 
+        intervals [5]:
+            xmin = 5.51 
+            xmax = 8.2 
+            text = "bu" 
+        intervals [6]:
+            xmin = 8.2 
+            xmax = 10.263219954648527 
+            text = "gece" 
+    item [16]:
+        class = "IntervalTier" 
+        name = "wordAligned" 
+        xmin = 0 
+        xmax = 10.263219954648527 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.99 
+            text = "" 
+        intervals [2]:
+            xmin = 0.99 
+            xmax = 3.05 
+            text = "güzelim" 
+        intervals [3]:
+            xmin = 3.05 
+            xmax = 5.51 
+            text = "Çamlıcaya" 
+        intervals [4]:
+            xmin = 5.51 
+            xmax = 8.2 
+            text = "bu" 
+        intervals [5]:
+            xmin = 8.2 
+            xmax = 10.263219954648527 
+            text = "gece" 
+    item [17]:
+        class = "IntervalTier" 
+        name = "grTruthDuration" 
+        xmin = 0 
+        xmax = 10.263219954648527 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.27160467896 
+            text = "" 
+        intervals [2]:
+            xmin = 1.27160467896 
+            xmax = 3.48160467896 
+            text = "güzelim" 
+        intervals [3]:
+            xmin = 3.48160467896 
+            xmax = 6.29160467896 
+            text = "Çamlıcaya" 
+        intervals [4]:
+            xmin = 6.29160467896 
+            xmax = 8.74160467896 
+            text = "bu" 
+        intervals [5]:
+            xmin = 8.74160467896 
+            xmax = 10.263219954648527 
+            text = "gece" 
+    item [18]:
+        class = "IntervalTier" 
+        name = "wordAligned" 
+        xmin = 0 
+        xmax = 10.263219954648527 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.54 
+            text = "Gel" 
+        intervals [2]:
+            xmin = 0.54 
+            xmax = 0.99 
+            text = "güzelim" 
+        intervals [3]:
+            xmin = 0.99 
+            xmax = 3.05 
+            text = "Çamlıcaya" 
+        intervals [4]:
+            xmin = 3.05 
+            xmax = 5.51 
+            text = "bu" 
+        intervals [5]:
+            xmin = 5.51 
+            xmax = 8.2 
+            text = "gece" 
+        intervals [6]:
+            xmin = 8.2 
+            xmax = 10.263219954648527 
+            text = "" 
+    item [19]:
+        class = "IntervalTier" 
+        name = "grTruthDuration" 
+        xmin = 0 
+        xmax = 10.263219954648527 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.621604678959 
+            text = "Gel" 
+        intervals [2]:
+            xmin = 0.621604678959 
+            xmax = 1.27160467896 
+            text = "güzelim" 
+        intervals [3]:
+            xmin = 1.27160467896 
+            xmax = 3.48160467896 
+            text = "Çamlıcaya" 
+        intervals [4]:
+            xmin = 3.48160467896 
+            xmax = 6.29160467896 
+            text = "bu" 
+        intervals [5]:
+            xmin = 6.29160467896 
+            xmax = 8.74160467896 
+            text = "gece" 
+        intervals [6]:
+            xmin = 8.74160467896 
+            xmax = 10.263219954648527 
+            text = "" 
+    item [20]:
+        class = "IntervalTier" 
+        name = "grTruthDuration" 
+        xmin = 0 
+        xmax = 10.263219954648527 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.621604678959 
+            text = "Gel" 
+        intervals [2]:
+            xmin = 0.621604678959 
+            xmax = 1.27160467896 
+            text = "güzelim" 
+        intervals [3]:
+            xmin = 1.27160467896 
+            xmax = 3.48160467896 
+            text = "Çamlıcaya" 
+        intervals [4]:
+            xmin = 3.48160467896 
+            xmax = 6.29160467896 
+            text = "bu" 
+        intervals [5]:
+            xmin = 6.29160467896 
+            xmax = 8.74160467896 
+            text = "gece" 
+        intervals [6]:
+            xmin = 8.74160467896 
+            xmax = 9.99160467896 
+            text = "" 
+        intervals [7]:
+            xmin = 9.99160467896 
+            xmax = 10.263219954648527 
+            text = "" 
+    item [21]:
+        class = "IntervalTier" 
+        name = "wordAligned" 
+        xmin = 0 
+        xmax = 10.263219954648527 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.54 
+            text = "Gel" 
+        intervals [2]:
+            xmin = 0.54 
+            xmax = 0.96 
+            text = "güzelim" 
+        intervals [3]:
+            xmin = 0.96 
+            xmax = 3.04 
+            text = "Çamlıcaya" 
+        intervals [4]:
+            xmin = 3.04 
+            xmax = 5.42 
+            text = "bu" 
+        intervals [5]:
+            xmin = 5.42 
+            xmax = 8.12 
+            text = "gece" 
+        intervals [6]:
+            xmin = 8.12 
+            xmax = 9.64 
+            text = "" 
+        intervals [7]:
+            xmin = 9.64 
+            xmax = 10.263219954648527 
+            text = "" 
+    item [22]:
+        class = "IntervalTier" 
+        name = "grTruthDuration" 
+        xmin = 0 
+        xmax = 10.263219954648527 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.621604678959 
+            text = "Gel" 
+        intervals [2]:
+            xmin = 0.621604678959 
+            xmax = 1.27160467896 
+            text = "güzelim" 
+        intervals [3]:
+            xmin = 1.27160467896 
+            xmax = 3.48160467896 
+            text = "Çamlıcaya" 
+        intervals [4]:
+            xmin = 3.48160467896 
+            xmax = 6.29160467896 
+            text = "bu" 
+        intervals [5]:
+            xmin = 6.29160467896 
+            xmax = 8.74160467896 
+            text = "gece" 
+        intervals [6]:
+            xmin = 8.74160467896 
+            xmax = 9.99160467896 
+            text = "" 
+        intervals [7]:
+            xmin = 9.99160467896 
+            xmax = 10.263219954648527 
+            text = "" 
+    item [23]:
+        class = "IntervalTier" 
+        name = "wordAligned" 
+        xmin = 0 
+        xmax = 10.263219954648527 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.54 
+            text = "" 
+        intervals [2]:
+            xmin = 0.54 
+            xmax = 0.96 
+            text = "Gel" 
+        intervals [3]:
+            xmin = 0.96 
+            xmax = 3.04 
+            text = "güzelim" 
+        intervals [4]:
+            xmin = 3.04 
+            xmax = 5.42 
+            text = "Çamlıcaya" 
+        intervals [5]:
+            xmin = 5.42 
+            xmax = 8.12 
+            text = "bu" 
+        intervals [6]:
+            xmin = 8.12 
+            xmax = 9.64 
+            text = "gece" 
+        intervals [7]:
+            xmin = 9.64 
+            xmax = 10.263219954648527 
+            text = "" 
+    item [24]:
+        class = "IntervalTier" 
+        name = "grTruthDuration" 
+        xmin = 0 
+        xmax = 10.263219954648527 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.621604678959 
+            text = "" 
+        intervals [2]:
+            xmin = 0.621604678959 
+            xmax = 1.27160467896 
+            text = "Gel" 
+        intervals [3]:
+            xmin = 1.27160467896 
+            xmax = 3.48160467896 
+            text = "güzelim" 
+        intervals [4]:
+            xmin = 3.48160467896 
+            xmax = 6.29160467896 
+            text = "Çamlıcaya" 
+        intervals [5]:
+            xmin = 6.29160467896 
+            xmax = 8.74160467896 
+            text = "bu" 
+        intervals [6]:
+            xmin = 8.74160467896 
+            xmax = 9.99160467896 
+            text = "gece" 
+        intervals [7]:
+            xmin = 9.99160467896 
+            xmax = 10.263219954648527 
+            text = "" 
+    item [25]:
+        class = "IntervalTier" 
+        name = "grTruthDuration" 
+        xmin = 0 
+        xmax = 10.263219954648527 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.621604678959 
+            text = "" 
+        intervals [2]:
+            xmin = 0.621604678959 
+            xmax = 1.27160467896 
+            text = "Gel" 
+        intervals [3]:
+            xmin = 1.27160467896 
+            xmax = 3.48160467896 
+            text = "güzelim" 
+        intervals [4]:
+            xmin = 3.48160467896 
+            xmax = 6.29160467896 
+            text = "Çamlıcaya" 
+        intervals [5]:
+            xmin = 6.29160467896 
+            xmax = 8.74160467896 
+            text = "bu" 
+        intervals [6]:
+            xmin = 8.74160467896 
+            xmax = 9.99160467896 
+            text = "gece" 
+        intervals [7]:
+            xmin = 9.99160467896 
+            xmax = 10.263219954648527 
+            text = "" 
+    item [26]:
+        class = "IntervalTier" 
+        name = "grTruthDuration" 
+        xmin = 0 
+        xmax = 10.263219954648527 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.001 
+            text = "" 
+        intervals [2]:
+            xmin = 0.001 
+            xmax = 1.27160467896 
+            text = "Gel" 
+        intervals [3]:
+            xmin = 1.27160467896 
+            xmax = 3.48160467896 
+            text = "güzelim" 
+        intervals [4]:
+            xmin = 3.48160467896 
+            xmax = 6.29160467896 
+            text = "Çamlıcaya" 
+        intervals [5]:
+            xmin = 6.29160467896 
+            xmax = 8.74160467896 
+            text = "bu" 
+        intervals [6]:
+            xmin = 8.74160467896 
+            xmax = 9.99160467896 
+            text = "gece" 
+        intervals [7]:
+            xmin = 9.99160467896 
+            xmax = 10.263219954648527 
+            text = "" 
+    item [27]:
+        class = "IntervalTier" 
+        name = "grTruthDuration" 
+        xmin = 0 
+        xmax = 10.263219954648527 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.001 
+            text = "" 
+        intervals [2]:
+            xmin = 0.001 
+            xmax = 1.27160467896 
+            text = "Gel" 
+        intervals [3]:
+            xmin = 1.27160467896 
+            xmax = 3.48160467896 
+            text = "güzelim" 
+        intervals [4]:
+            xmin = 3.48160467896 
+            xmax = 6.29160467896 
+            text = "Çamlıcaya" 
+        intervals [5]:
+            xmin = 6.29160467896 
+            xmax = 8.74160467896 
+            text = "bu" 
+        intervals [6]:
+            xmin = 8.74160467896 
+            xmax = 9.99160467896 
+            text = "gece" 
+        intervals [7]:
+            xmin = 9.99160467896 
+            xmax = 10.263219954648527 
+            text = "" 
+    item [28]:
+        class = "IntervalTier" 
+        name = "grTruthDuration" 
+        xmin = 0 
+        xmax = 10.263219954648527 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.01 
+            text = "" 
+        intervals [2]:
+            xmin = 0.01 
+            xmax = 1.27160467896 
+            text = "Gel" 
+        intervals [3]:
+            xmin = 1.27160467896 
+            xmax = 3.48160467896 
+            text = "güzelim" 
+        intervals [4]:
+            xmin = 3.48160467896 
+            xmax = 6.29160467896 
+            text = "Çamlıcaya" 
+        intervals [5]:
+            xmin = 6.29160467896 
+            xmax = 8.74160467896 
+            text = "bu" 
+        intervals [6]:
+            xmin = 8.74160467896 
+            xmax = 9.99160467896 
+            text = "gece" 
+        intervals [7]:
+            xmin = 9.99160467896 
+            xmax = 10.263219954648527 
+            text = "" 
+    item [29]:
+        class = "IntervalTier" 
+        name = "grTruthDuration" 
+        xmin = 0 
+        xmax = 10.263219954648527 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.001 
+            text = "" 
+        intervals [2]:
+            xmin = 0.001 
+            xmax = 1.27160467896 
+            text = "Gel" 
+        intervals [3]:
+            xmin = 1.27160467896 
+            xmax = 3.48160467896 
+            text = "güzelim" 
+        intervals [4]:
+            xmin = 3.48160467896 
+            xmax = 6.29160467896 
+            text = "Çamlıcaya" 
+        intervals [5]:
+            xmin = 6.29160467896 
+            xmax = 8.74160467896 
+            text = "bu" 
+        intervals [6]:
+            xmin = 8.74160467896 
+            xmax = 9.99160467896 
+            text = "gece" 
+        intervals [7]:
+            xmin = 9.99160467896 
+            xmax = 10.263219954648527 
+            text = "" 
+    item [30]:
+        class = "IntervalTier" 
+        name = "grTruthDuration" 
+        xmin = 0 
+        xmax = 10.263219954648527 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.001 
+            text = "" 
+        intervals [2]:
+            xmin = 0.001 
+            xmax = 1.27160467896 
+            text = "Gel" 
+        intervals [3]:
+            xmin = 1.27160467896 
+            xmax = 3.48160467896 
+            text = "güzelim" 
+        intervals [4]:
+            xmin = 3.48160467896 
+            xmax = 6.29160467896 
+            text = "Çamlıcaya" 
+        intervals [5]:
+            xmin = 6.29160467896 
+            xmax = 8.74160467896 
+            text = "bu" 
+        intervals [6]:
+            xmin = 8.74160467896 
+            xmax = 9.99160467896 
+            text = "gece" 
+        intervals [7]:
+            xmin = 9.99160467896 
+            xmax = 10.263219954648527 
+            text = "" 
+    item [31]:
+        class = "IntervalTier" 
+        name = "wordAligned" 
+        xmin = 0 
+        xmax = 10.263219954648527 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.54 
+            text = "" 
+        intervals [2]:
+            xmin = 0.54 
+            xmax = 0.96 
+            text = "Gel" 
+        intervals [3]:
+            xmin = 0.96 
+            xmax = 3.04 
+            text = "güzelim" 
+        intervals [4]:
+            xmin = 3.04 
+            xmax = 5.42 
+            text = "Çamlıcaya" 
+        intervals [5]:
+            xmin = 5.42 
+            xmax = 8.12 
+            text = "bu" 
+        intervals [6]:
+            xmin = 8.12 
+            xmax = 9.64 
+            text = "gece" 
+        intervals [7]:
+            xmin = 9.64 
+            xmax = 10.263219954648527 
+            text = "" 
+    item [32]:
+        class = "IntervalTier" 
+        name = "grTruthDuration" 
+        xmin = 0 
+        xmax = 10.263219954648527 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.621604678959 
+            text = "" 
+        intervals [2]:
+            xmin = 0.621604678959 
+            xmax = 1.27160467896 
+            text = "Gel" 
+        intervals [3]:
+            xmin = 1.27160467896 
+            xmax = 3.48160467896 
+            text = "güzelim" 
+        intervals [4]:
+            xmin = 3.48160467896 
+            xmax = 6.29160467896 
+            text = "Çamlıcaya" 
+        intervals [5]:
+            xmin = 6.29160467896 
+            xmax = 8.74160467896 
+            text = "bu" 
+        intervals [6]:
+            xmin = 8.74160467896 
+            xmax = 9.99160467896 
+            text = "gece" 
+        intervals [7]:
+            xmin = 9.99160467896 
+            xmax = 10.263219954648527 
+            text = "" 
