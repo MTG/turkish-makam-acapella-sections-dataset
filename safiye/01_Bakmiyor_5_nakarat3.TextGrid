@@ -2,7 +2,7 @@ File type = "ooTextFile"
 Object class = "TextGrid"
 
 xmin = 0 
-xmax = 11.95827664399093 
+xmax = 11.413219954648525 
 tiers? <exists> 
 size = 2 
 item []: 
@@ -10,63 +10,47 @@ item []:
         class = "IntervalTier" 
         name = "words" 
         xmin = 0 
-        xmax = 11.95827664399093 
-        intervals: size = 7 
+        xmax = 11.413219954648525 
+        intervals: size = 5 
         intervals [1]:
             xmin = 0 
-            xmax = 0.3752383626128332 
-            text = "" 
+            xmax = 1.900277217527333 
+            text = "yetiS ey" 
         intervals [2]:
-            xmin = 0.3752383626128332 
-            xmax = 1.5017965202502321 
-            text = "yetişey" 
+            xmin = 1.900277217527333 
+            xmax = 3.5845690411395563 
+            text = " gamze " 
         intervals [3]:
-            xmin = 1.5017965202502321 
-            xmax = 2.9961213685124823 
-            text = "gamze" 
+            xmin = 3.5845690411395563 
+            xmax = 5.360579726433634 
+            text = "yetiS" 
         intervals [4]:
-            xmin = 2.9961213685124823 
-            xmax = 4.793188761825875 
-            text = "yetiş" 
+            xmin = 5.360579726433634 
+            xmax = 5.760807486499904 
+            text = "" 
         intervals [5]:
-            xmin = 4.793188761825875 
-            xmax = 5.2037937660834865 
-            text = "" 
-        intervals [6]:
-            xmin = 5.2037937660834865 
-            xmax = 11.172854812019935 
-            text = "imdade" 
-        intervals [7]:
-            xmin = 11.172854812019935 
-            xmax = 11.95827664399093 
-            text = "" 
+            xmin = 5.760807486499904 
+            xmax = 11.413219954648525 
+            text = " imdade" 
     item [2]:
         class = "IntervalTier" 
         name = "phrases" 
         xmin = 0 
-        xmax = 11.95827664399093 
-        intervals: size = 6 
+        xmax = 11.413219954648525 
+        intervals: size = 4 
         intervals [1]:
             xmin = 0 
-            xmax = 0.3752383626128332 
-            text = "" 
+            xmax = 1.900277217527333 
+            text = "yetiS ey" 
         intervals [2]:
-            xmin = 0.3752383626128332 
-            xmax = 1.5017965202502321 
-            text = "yetişey" 
+            xmin = 1.900277217527333 
+            xmax = 5.360579726433634 
+            text = " gamze  yetiS" 
         intervals [3]:
-            xmin = 1.5017965202502321 
-            xmax = 4.793188761825875 
-            text = " gamze yetiş" 
+            xmin = 5.360579726433634 
+            xmax = 5.760807486499904 
+            text = "" 
         intervals [4]:
-            xmin = 4.793188761825875 
-            xmax = 5.2037937660834865 
-            text = "" 
-        intervals [5]:
-            xmin = 5.2037937660834865 
-            xmax = 11.172854812019935 
-            text = "imdade" 
-        intervals [6]:
-            xmin = 11.172854812019935 
-            xmax = 11.95827664399093 
-            text = "" 
+            xmin = 5.760807486499904 
+            xmax = 11.413219954648525 
+            text = " imdade" 
