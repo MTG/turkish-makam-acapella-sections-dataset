@@ -1,0 +1,48 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 9.334421768707482 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "/Users/joro/Documents/Phd/UPF/turkish-makam-lyrics-2-audio-test-data-synthesis/rast--sarki--curcuna--nihansin_dideden--haci_faik_bey/Nurten_Demirkol/Nurten_Demirkol_3_zemin2_from_29_58222222_to_38_91664399.TextGrid" 
+        xmin = 0 
+        xmax = 9.334421768707482 
+        intervals: size = 2 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.6241440917720649 
+            text = "" 
+        intervals [2]:
+            xmin = 1.6241440917720649 
+            xmax = 9.334421768707482 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phrases" 
+        xmin = 0 
+        xmax = 9.334421768707482 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.6241440917720649 
+            text = "Nihansın" 
+        intervals [2]:
+            xmin = 1.6241440917720649 
+            xmax = 4.01911062246399 
+            text = "dîdeden" 
+        intervals [3]:
+            xmin = 4.01911062246399 
+            xmax = 4.3882273279111335 
+            text = "" 
+        intervals [4]:
+            xmin = 4.3882273279111335 
+            xmax = 8.903468887566879 
+            text = "ey mestinâzım" 
+        intervals [5]:
+            xmin = 8.903468887566879 
+            xmax = 9.334421768707482 
+            text = "" 

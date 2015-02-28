@@ -1,0 +1,48 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 10.402539682539683 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "/Users/joro/Documents/Phd/UPF/ISTANBUL/guelcin/Eda_Simsek_3_zemin_from_32_74013605_to_43_14267574.TextGrid" 
+        xmin = 0 
+        xmax = 10.402539682539683 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 10.402539682539683 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phrases" 
+        xmin = 0 
+        xmax = 10.402539682539683 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.288309961003879 
+            text = "Gelmez oldu hiç sesin" 
+        intervals [2]:
+            xmin = 2.288309961003879 
+            xmax = 2.5274692286776035 
+            text = "" 
+        intervals [3]:
+            xmin = 2.5274692286776035 
+            xmax = 4.966893758949592 
+            text = "Söyle canım nerdesin" 
+        intervals [4]:
+            xmin = 4.966893758949592 
+            xmax = 5.2634512508650095 
+            text = "" 
+        intervals [5]:
+            xmin = 5.2634512508650095 
+            xmax = 7.884636824569028 
+            text = "Uzaklara mı gittin" 
+        intervals [6]:
+            xmin = 7.884636824569028 
+            xmax = 10.402539682539683 
+            text = "Hangi gizli yerdesin" 

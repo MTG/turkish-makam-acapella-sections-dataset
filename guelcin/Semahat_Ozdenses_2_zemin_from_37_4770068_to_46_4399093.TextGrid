@@ -1,0 +1,48 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 8.962895833333333 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "/Users/joro/Documents/Phd/UPF/ISTANBUL/guelcin/Semahat_Ozdenses_2_zemin_from_37_4770068_to_46_4399093.TextGrid" 
+        xmin = 0 
+        xmax = 8.962895833333333 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 8.962895833333333 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phrases" 
+        xmin = 0 
+        xmax = 8.962895833333333 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.3399003184817926 
+            text = "Gül ağacı" 
+        intervals [2]:
+            xmin = 2.3399003184817926 
+            xmax = 4.268759970271594 
+            text = "değilem" 
+        intervals [3]:
+            xmin = 4.268759970271594 
+            xmax = 4.584124856305667 
+            text = "" 
+        intervals [4]:
+            xmin = 4.584124856305667 
+            xmax = 6.747674655841756 
+            text = "Her gelene" 
+        intervals [5]:
+            xmin = 6.747674655841756 
+            xmax = 7.0703736089929015 
+            text = "" 
+        intervals [6]:
+            xmin = 7.0703736089929015 
+            xmax = 8.962895833333333 
+            text = "eğilem" 

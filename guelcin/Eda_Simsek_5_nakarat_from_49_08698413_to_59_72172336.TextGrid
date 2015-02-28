@@ -1,0 +1,52 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 10.634739229024943 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "/Users/joro/Documents/Phd/UPF/ISTANBUL/guelcin/Eda_Simsek_5_nakarat_from_49_08698413_to_59_72172336.TextGrid" 
+        xmin = 0 
+        xmax = 10.634739229024943 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 10.634739229024943 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phrases" 
+        xmin = 0 
+        xmax = 10.634739229024943 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.175916531154854 
+            text = "Kalbim seni özler" 
+        intervals [2]:
+            xmin = 2.175916531154854 
+            xmax = 2.4282770281558816 
+            text = "" 
+        intervals [3]:
+            xmin = 2.4282770281558816 
+            xmax = 4.925775739855705 
+            text = "Yollarını gözler" 
+        intervals [4]:
+            xmin = 4.925775739855705 
+            xmax = 5.247752925684602 
+            text = "" 
+        intervals [5]:
+            xmin = 5.247752925684602 
+            xmax = 7.8583787567297145 
+            text = "Nerde verdiğin sözler" 
+        intervals [6]:
+            xmin = 7.8583787567297145 
+            xmax = 10.321069124015603 
+            text = "Niçin neden gelmedin" 
+        intervals [7]:
+            xmin = 10.321069124015603 
+            xmax = 10.634739229024943 
+            text = "" 

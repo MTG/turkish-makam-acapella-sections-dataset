@@ -1,0 +1,44 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 11.377777777777778 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "/Users/joro/Documents/Phd/UPF/turkish-makam-lyrics-2-audio-test-data-synthesis/rast--sarki--curcuna--nihansin_dideden--haci_faik_bey/Nurten_Demirkol/Nurten_Demirkol_15_nakarat2_from_149_5365079_to_160_9142857.TextGrid" 
+        xmin = 0 
+        xmax = 11.377777777777778 
+        intervals: size = 2 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.35787933789927795 
+            text = "" 
+        intervals [2]:
+            xmin = 0.35787933789927795 
+            xmax = 11.377777777777778 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phrases" 
+        xmin = 0 
+        xmax = 11.377777777777778 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.35787933789927795 
+            text = "" 
+        intervals [2]:
+            xmin = 0.35787933789927795 
+            xmax = 4.909379150814844 
+            text = "Bana insan değil" 
+        intervals [3]:
+            xmin = 4.909379150814844 
+            xmax = 9.680606540905643 
+            text = "ağlar melekler" 
+        intervals [4]:
+            xmin = 9.680606540905643 
+            xmax = 11.377777777777778 
+            text = "" 

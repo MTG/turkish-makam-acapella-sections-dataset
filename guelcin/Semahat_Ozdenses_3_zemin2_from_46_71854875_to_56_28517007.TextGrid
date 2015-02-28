@@ -1,0 +1,56 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 9.566625 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "/Users/joro/Documents/Phd/UPF/ISTANBUL/guelcin/Semahat_Ozdenses_3_zemin2_from_46_71854875_to_56_28517007.TextGrid" 
+        xmin = 0 
+        xmax = 9.566625 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 9.566625 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phrases" 
+        xmin = 0 
+        xmax = 9.566625 
+        intervals: size = 8 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.13343270040294447 
+            text = "" 
+        intervals [2]:
+            xmin = 0.13343270040294447 
+            xmax = 2.5260052591582807 
+            text = "Çek elini" 
+        intervals [3]:
+            xmin = 2.5260052591582807 
+            xmax = 4.418964230295294 
+            text = "elimden" 
+        intervals [4]:
+            xmin = 4.418964230295294 
+            xmax = 4.8359137513264026 
+            text = "" 
+        intervals [5]:
+            xmin = 4.8359137513264026 
+            xmax = 6.847938195281396 
+            text = "Men sevgilen" 
+        intervals [6]:
+            xmin = 6.847938195281396 
+            xmax = 7.169714456077144 
+            text = "" 
+        intervals [7]:
+            xmin = 7.169714456077144 
+            xmax = 9.25 
+            text = "değilem" 
+        intervals [8]:
+            xmin = 9.25 
+            xmax = 9.566625 
+            text = "" 

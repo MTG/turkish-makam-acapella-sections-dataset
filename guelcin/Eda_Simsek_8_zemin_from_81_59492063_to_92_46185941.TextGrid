@@ -1,0 +1,56 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 10.866938775510205 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "/Users/joro/Documents/Phd/UPF/ISTANBUL/guelcin/Eda_Simsek_8_zemin_from_81_59492063_to_92_46185941.TextGrid" 
+        xmin = 0 
+        xmax = 10.866938775510205 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 10.866938775510205 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phrases" 
+        xmin = 0 
+        xmax = 10.866938775510205 
+        intervals: size = 8 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.530374827280681 
+            text = "Güzelim güller açsın" 
+        intervals [2]:
+            xmin = 2.530374827280681 
+            xmax = 2.7502305254921686 
+            text = "" 
+        intervals [3]:
+            xmin = 2.7502305254921686 
+            xmax = 5.148656324162947 
+            text = "Elemler bizden kaçsın" 
+        intervals [4]:
+            xmin = 5.148656324162947 
+            xmax = 5.388498904030025 
+            text = "" 
+        intervals [5]:
+            xmin = 5.388498904030025 
+            xmax = 7.986793519256701 
+            text = "Sevişip koklaşmamız " 
+        intervals [6]:
+            xmin = 7.986793519256701 
+            xmax = 8.14668857250142 
+            text = "" 
+        intervals [7]:
+            xmin = 8.14668857250142 
+            xmax = 10.865938775510205 
+            text = "Etrafa neşe saçsın" 
+        intervals [8]:
+            xmin = 10.865938775510205 
+            xmax = 10.866938775510205 
+            text = "" 

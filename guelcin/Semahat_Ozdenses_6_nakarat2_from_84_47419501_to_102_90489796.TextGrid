@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 18.43070833333333 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "/Users/joro/Documents/Phd/UPF/ISTANBUL/guelcin/Semahat_Ozdenses_6_nakarat2_from_84_47419501_to_102_90489796.TextGrid" 
+        xmin = 0 
+        xmax = 18.43070833333333 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 18.43070833333333 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phrases" 
+        xmin = 0 
+        xmax = 18.43070833333333 
+        intervals: size = 13 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.9914151541712621 
+            text = "Kollarını" 
+        intervals [2]:
+            xmin = 1.9914151541712621 
+            xmax = 4.298852876325326 
+            text = "sar boynuma" 
+        intervals [3]:
+            xmin = 4.298852876325326 
+            xmax = 6.425315090859463 
+            text = "Sevgilinem" 
+        intervals [4]:
+            xmin = 6.425315090859463 
+            xmax = 6.681697059987693 
+            text = "" 
+        intervals [5]:
+            xmin = 6.681697059987693 
+            xmax = 8.702590228410205 
+            text = "men" 
+        intervals [6]:
+            xmin = 8.702590228410205 
+            xmax = 8.974053489840095 
+            text = "" 
+        intervals [7]:
+            xmin = 8.974053489840095 
+            xmax = 10.979865365960949 
+            text = "Kollarını" 
+        intervals [8]:
+            xmin = 10.979865365960949 
+            xmax = 11.160840873580876 
+            text = "" 
+        intervals [9]:
+            xmin = 11.160840873580876 
+            xmax = 13.438116011131617 
+            text = "sar boynuma" 
+        intervals [10]:
+            xmin = 13.438116011131617 
+            xmax = 16.07734216392221 
+            text = "Sevgilinem" 
+        intervals [11]:
+            xmin = 16.07734216392221 
+            xmax = 17.615633978691587 
+            text = "men" 
+        intervals [12]:
+            xmin = 17.615633978691587 
+            xmax = 18.42970833333333 
+            text = "" 
+        intervals [13]:
+            xmin = 18.42970833333333 
+            xmax = 18.43070833333333 
+            text = "" 

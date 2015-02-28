@@ -1,0 +1,80 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 19.0868125 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "/Users/joro/Documents/Phd/UPF/ISTANBUL/guelcin/Semahat_Ozdenses_5_nakarat_from_65_06231293_to_84_14911565.TextGrid" 
+        xmin = 0 
+        xmax = 19.0868125 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 19.0868125 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phrases" 
+        xmin = 0 
+        xmax = 19.0868125 
+        intervals: size = 14 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.31307219071483255 
+            text = "" 
+        intervals [2]:
+            xmin = 0.31307219071483255 
+            xmax = 2.690083333333333 
+            text = "Nice bile" 
+        intervals [3]:
+            xmin = 2.690083333333333 
+            xmax = 5.15470257714191 
+            text = "arz eyleyem" 
+        intervals [4]:
+            xmin = 5.15470257714191 
+            xmax = 5.326502365047387 
+            text = "" 
+        intervals [5]:
+            xmin = 5.326502365047387 
+            xmax = 7.606754095429172 
+            text = "Kızıl gülem " 
+        intervals [6]:
+            xmin = 7.606754095429172 
+            xmax = 9.762060525516064 
+            text = "men" 
+        intervals [7]:
+            xmin = 9.762060525516064 
+            xmax = 11.886130630529234 
+            text = "Nice bile" 
+        intervals [8]:
+            xmin = 11.886130630529234 
+            xmax = 12.214112043803325 
+            text = "" 
+        intervals [9]:
+            xmin = 12.214112043803325 
+            xmax = 14.5245625 
+            text = "arz eyleyem" 
+        intervals [10]:
+            xmin = 14.5245625 
+            xmax = 14.681781724627449 
+            text = "" 
+        intervals [11]:
+            xmin = 14.681781724627449 
+            xmax = 16.977651617546094 
+            text = "Kızıl gülem" 
+        intervals [12]:
+            xmin = 16.977651617546094 
+            xmax = 17.96159585736837 
+            text = "men" 
+        intervals [13]:
+            xmin = 17.96159585736837 
+            xmax = 19.0858125 
+            text = "" 
+        intervals [14]:
+            xmin = 19.0858125 
+            xmax = 19.0868125 
+            text = "" 
