@@ -1,6 +1,16 @@
 
+This dataset contains acapella singing of classical Turkish makam recordnigs sung from semi-professional singers  
 
-Here we describe how to assign each segment of the audio to its corresponding word from the lyrics with the software tool Praat:
+Annotations of secitons (aranağme, zemin etc.) are taken from https://github.com/MTG/turkish_makam_section_dataset 
+Annotations of lyrics words and lyrics phrases are done by georgi.dzhambazov@upf.edu
+FORMAT: All annotations in TextGrid (used in Praat) 
+
+-------------------------
+-------------------------
+
+!! Please help annotate not annotated audio !!
+
+INSTRUCTIONS  how to assign each segment of the audio to its corresponding word from the lyrics with the software tool Praat:
 
 Songs are divided into sections, so work we with the audio for a given section (chorus/verse).
 The corresponding lyrics can be found in .pdf files on the given file lyrics.txt    
@@ -13,8 +23,7 @@ where sectionNumber comes from the .tsv file
 
 .tsv file has to be number of note on which lyrics for the section start (not note of no lyrics)
 
--------------------------
--------------------------
+
 -------------------------
 
 Annotation instructions:
@@ -75,9 +84,7 @@ open goekhan/02_Kimseye_Part1_zemin.wav
 Select Sound and TextGrid objects together. Button VIEW AND EDIT
 
 
--------------------------
 
--------------------------
 
 -------------------------
 some scripts : 
